@@ -1,0 +1,175 @@
+{
+ "ulke": "es",
+ "ad": "İspanya",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "es-trailerses",
+   "ad": "Trailers",
+   "alt": "news",
+   "ulke": "es",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/RwZ1hCN.png",
+   "iptv": [
+    "Trailers.es"
+   ],
+   "url": [
+    "https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "es-ondavalenciatves",
+   "ad": "Onda Valencia TV",
+   "alt": "music, news",
+   "ulke": "es",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/6HxLUQd.png",
+   "iptv": [
+    "OndaValenciaTV.es"
+   ],
+   "url": [
+    "https://cloudvideo.servers10.com:8081/8116/index.m3u8"
+   ]
+  },
+  {
+   "id": "es-lovetheplanetes",
+   "ad": "Love The Planet",
+   "alt": "documentary",
+   "ulke": "es",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/RBcD49X.png",
+   "iptv": [
+    "LoveThePlanet.es"
+   ],
+   "url": [
+    "https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "es-hamaikatelebistaes",
+   "ad": "Hamaika Telebista",
+   "alt": "culture",
+   "ulke": "es",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/HR3G3Ie.png",
+   "iptv": [
+    "HamaikaTelebista.es"
+   ],
+   "url": [
+    "https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "es-arabitves",
+   "ad": "Arabi TV",
+   "alt": "general",
+   "ulke": "es",
+   "kalite": "FHD",
+   "logo": "https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png",
+   "iptv": [
+    "ArabiTV.es"
+   ],
+   "url": [
+    "https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8"
+   ]
+  },
+  {
+   "id": "es-canalsurandaluciaes",
+   "ad": "Canal Sur Andalucia",
+   "alt": "general, public",
+   "ulke": "es",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/lznnA4v.png",
+   "iptv": [
+    "CanalSurAndalucia.es"
+   ],
+   "url": [
+    "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8"
+   ]
+  },
+  {
+   "id": "es-dieztvlasvillases",
+   "ad": "Diez TV Las Villas",
+   "alt": "general",
+   "ulke": "es",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/QTA40lP.png",
+   "iptv": [
+    "DiezTVLasVillas.es"
+   ],
+   "url": [
+    "https://streaming.cloud.innovasur.es/mmj2/index.m3u8"
+   ]
+  },
+  {
+   "id": "es-dieztvubedaes",
+   "ad": "Diez TV Ubeda",
+   "alt": "general",
+   "ulke": "es",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/o2a7s4W.png",
+   "iptv": [
+    "DiezTVUbeda.es"
+   ],
+   "url": [
+    "https://streaming.cloud.innovasur.es/mmj/index.m3u8"
+   ]
+  },
+  {
+   "id": "es-distritotves",
+   "ad": "Distrito TV",
+   "alt": "general",
+   "ulke": "es",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/AqGIoIt.png",
+   "iptv": [
+    "DistritoTV.es"
+   ],
+   "url": [
+    "https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8"
+   ]
+  },
+  {
+   "id": "es-etbevents1es",
+   "ad": "ETB Events 1",
+   "alt": "general, public",
+   "ulke": "es",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/bVUEmx9.png",
+   "iptv": [
+    "ETBEvents1.es"
+   ],
+   "url": [
+    "https://cdn1.etbon.eus/oc1/index.m3u8"
+   ]
+  },
+  {
+   "id": "es-empordatves",
+   "ad": "Emporda TV",
+   "alt": "general",
+   "ulke": "es",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/jc0lUbX.png",
+   "iptv": [
+    "EmpordaTV.es"
+   ],
+   "url": [
+    "https://video3.lhdserver.es/empordatv2/live.m3u8"
+   ]
+  },
+  {
+   "id": "es-fuerteventuratves",
+   "ad": "Fuerteventura TV",
+   "alt": "general",
+   "ulke": "es",
+   "kalite": "FHD",
+   "logo": "https://i.ibb.co/MpvjCzC/Fuerteventura-tv-service-webtv-488969d1-1.png",
+   "iptv": [
+    "FuerteventuraTV.es"
+   ],
+   "url": [
+    "https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8"
+   ]
+  }
+ ]
+}

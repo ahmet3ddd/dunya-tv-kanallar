@@ -1,0 +1,161 @@
+{
+ "ulke": "eg",
+ "ad": "Mısır",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "eg-alghadtveg",
+   "ad": "Al Ghad TV",
+   "alt": "news",
+   "ulke": "eg",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/ga6NXb9.png",
+   "iptv": [
+    "AlGhadTV.eg"
+   ],
+   "url": [
+    "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8"
+   ]
+  },
+  {
+   "id": "eg-almasriyaheg",
+   "ad": "Al Masriyah",
+   "alt": "general",
+   "ulke": "eg",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/wTeOM2J.png",
+   "iptv": [
+    "AlMasriyah.eg"
+   ],
+   "url": [
+    "http://185.9.2.18/chid_247/index.m3u8"
+   ]
+  },
+  {
+   "id": "eg-mbc1egypteg",
+   "ad": "MBC 1 Egypt",
+   "alt": "general",
+   "ulke": "eg",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/CiA3plN.png",
+   "iptv": [
+    "MBC1Egypt.eg"
+   ],
+   "url": [
+    "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8"
+   ]
+  },
+  {
+   "id": "eg-mbcmasreg",
+   "ad": "MBC Masr",
+   "alt": "general",
+   "ulke": "eg",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/o2elx0u.png",
+   "iptv": [
+    "MBCMasr.eg"
+   ],
+   "url": [
+    "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8"
+   ]
+  },
+  {
+   "id": "eg-mbcmasr2eg",
+   "ad": "MBC Masr 2",
+   "alt": "general",
+   "ulke": "eg",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/KHo7Gtn.png",
+   "iptv": [
+    "MBCMasr2.eg"
+   ],
+   "url": [
+    "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8"
+   ]
+  },
+  {
+   "id": "eg-watantveg",
+   "ad": "Watan TV",
+   "alt": "general",
+   "ulke": "eg",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/pZyKaUH.png",
+   "iptv": [
+    "WatanTV.eg"
+   ],
+   "url": [
+    "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "eg-hyatveg",
+   "ad": "Hya TV",
+   "alt": "entertainment",
+   "ulke": "eg",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/XjBIi0e.png",
+   "iptv": [
+    "HyaTV.eg"
+   ],
+   "url": [
+    "https://freem3u.xyz/api/live/play.m3u8?vid=187"
+   ]
+  },
+  {
+   "id": "eg-koogitveg",
+   "ad": "Koogi TV",
+   "alt": "kids, religious",
+   "ulke": "eg",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/zojMTP9.png",
+   "iptv": [
+    "KoogiTV.eg"
+   ],
+   "url": [
+    "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "eg-mixhollywoodeg",
+   "ad": "Mix Hollywood",
+   "alt": "movies",
+   "ulke": "eg",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/1ENdbZn.png",
+   "iptv": [
+    "MixHollywood.eg"
+   ],
+   "url": [
+    "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8"
+   ]
+  },
+  {
+   "id": "eg-mazzikaeg",
+   "ad": "Mazzika",
+   "alt": "music",
+   "ulke": "eg",
+   "kalite": "SD",
+   "logo": "https://i.imgur.com/P7PUHIx.png",
+   "iptv": [
+    "Mazzika.eg"
+   ],
+   "url": [
+    "http://149.100.11.235:8080/Mazzika/index.m3u8"
+   ]
+  },
+  {
+   "id": "eg-elradio9090fmeg",
+   "ad": "El Radio 9090 FM",
+   "alt": "music",
+   "ulke": "eg",
+   "kalite": "SD",
+   "logo": "https://www.9090.fm/images/logo.png",
+   "iptv": [
+    "ElRadio9090FM.eg"
+   ],
+   "url": [
+    "https://9090video.mobtada.com/hls/stream.m3u8"
+   ]
+  }
+ ]
+}

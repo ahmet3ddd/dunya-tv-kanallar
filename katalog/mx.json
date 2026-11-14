@@ -1,0 +1,175 @@
+{
+ "ulke": "mx",
+ "ad": "Meksika",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "mx-acustiktvmx",
+   "ad": "Acustik TV",
+   "alt": "news",
+   "ulke": "mx",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/dhiNIng.png",
+   "iptv": [
+    "AcustikTV.mx"
+   ],
+   "url": [
+    "https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "mx-canal33tijuanamx",
+   "ad": "Canal 33 Tijuana",
+   "alt": "general, news",
+   "ulke": "mx",
+   "kalite": "FHD",
+   "logo": "https://iili.io/JCt1Nbn.png",
+   "iptv": [
+    "Canal33Tijuana.mx"
+   ],
+   "url": [
+    "https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "mx-nationalgeographicmx",
+   "ad": "National Geographic",
+   "alt": "documentary",
+   "ulke": "mx",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+   "iptv": [
+    "NationalGeographic.mx"
+   ],
+   "url": [
+    "http://138.121.15.230:9002/NAT-GEO/index.m3u8"
+   ]
+  },
+  {
+   "id": "mx-uaatvmx",
+   "ad": "UAA TV",
+   "alt": "education, culture, public",
+   "ulke": "mx",
+   "kalite": "SD",
+   "logo": "https://i.imgur.com/brCSiGh.png",
+   "iptv": [
+    "UAATV.mx"
+   ],
+   "url": [
+    "https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "mx-jaliscotvmx",
+   "ad": "Jalisco TV",
+   "alt": "culture, education",
+   "ulke": "mx",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/N4meE8I.png",
+   "iptv": [
+    "JaliscoTV.mx"
+   ],
+   "url": [
+    "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8"
+   ]
+  },
+  {
+   "id": "mx-presumiendomexicomx",
+   "ad": "Presumiendo Mexico",
+   "alt": "culture",
+   "ulke": "mx",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/bFG4Rqz.png",
+   "iptv": [
+    "PresumiendoMexico.mx"
+   ],
+   "url": [
+    "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "mx-8ntvmx",
+   "ad": "8NTV",
+   "alt": "general",
+   "ulke": "mx",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/7ecgGIG.png",
+   "iptv": [
+    "8NTV.mx"
+   ],
+   "url": [
+    "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "mx-antenatvmx",
+   "ad": "Antena TV",
+   "alt": "general",
+   "ulke": "mx",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/1sAgSME.png",
+   "iptv": [
+    "AntenaTV.mx"
+   ],
+   "url": [
+    "https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "mx-azteca7mx",
+   "ad": "Azteca 7",
+   "alt": "general",
+   "ulke": "mx",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/UtFXjIn.png",
+   "iptv": [
+    "Azteca7.mx"
+   ],
+   "url": [
+    "http://187.245.231.226:8000/play/a0uz/index.m3u8"
+   ]
+  },
+  {
+   "id": "mx-b15fresnillomx",
+   "ad": "B15 Fresnillo",
+   "alt": "general",
+   "ulke": "mx",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/kaUhEQy.png",
+   "iptv": [
+    "B15Fresnillo.mx"
+   ],
+   "url": [
+    "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "mx-b15zacatecasmx",
+   "ad": "B15 Zacatecas",
+   "alt": "general",
+   "ulke": "mx",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/kaUhEQy.png",
+   "iptv": [
+    "B15Zacatecas.mx"
+   ],
+   "url": [
+    "https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "mx-canal5tvcozumelmx",
+   "ad": "Canal 5 TV Cozumel",
+   "alt": "general",
+   "ulke": "mx",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/0nzNMuP.jpeg",
+   "iptv": [
+    "Canal5TVCozumel.mx"
+   ],
+   "url": [
+    "https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8"
+   ]
+  }
+ ]
+}

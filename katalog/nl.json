@@ -1,0 +1,175 @@
+{
+ "ulke": "nl",
+ "ad": "Hollanda",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "nl-nhnl",
+   "ad": "NH",
+   "alt": "general, news",
+   "ulke": "nl",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/SPkK4md.png",
+   "iptv": [
+    "NH.nl"
+   ],
+   "url": [
+    "https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live"
+   ]
+  },
+  {
+   "id": "nl-inwildnl",
+   "ad": "INWILD",
+   "alt": "documentary",
+   "ulke": "nl",
+   "kalite": "FHD",
+   "logo": "https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png",
+   "iptv": [
+    "INWILD.nl"
+   ],
+   "url": [
+    "https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "nl-salto2nl",
+   "ad": "Salto 2",
+   "alt": "culture",
+   "ulke": "nl",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/6H3ycdL.png",
+   "iptv": [
+    "Salto2.nl"
+   ],
+   "url": [
+    "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8"
+   ]
+  },
+  {
+   "id": "nl-1twentetvnl",
+   "ad": "1Twente TV",
+   "alt": "general",
+   "ulke": "nl",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/ftiuNK3.png",
+   "iptv": [
+    "1TwenteTV.nl"
+   ],
+   "url": [
+    "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8"
+   ]
+  },
+  {
+   "id": "nl-dtvdenboschnl",
+   "ad": "DTV Den Bosch",
+   "alt": "general",
+   "ulke": "nl",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/aFBNbsy.png",
+   "iptv": [
+    "DTVDenBosch.nl"
+   ],
+   "url": [
+    "https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv2&output=playlist.m3u8&protocol=https&service=wowza&type=live"
+   ]
+  },
+  {
+   "id": "nl-dtvmaashorstnl",
+   "ad": "DTV Maashorst",
+   "alt": "general",
+   "ulke": "nl",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/5WaCCAC.png",
+   "iptv": [
+    "DTVMaashorst.nl"
+   ],
+   "url": [
+    "https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&output=playlist.m3u8&protocol=https&service=wowza&type=live"
+   ]
+  },
+  {
+   "id": "nl-dtvossbernhezenl",
+   "ad": "DTV Oss & Bernheze",
+   "alt": "general",
+   "ulke": "nl",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/JL1f9Tx.png",
+   "iptv": [
+    "DTVOssBernheze.nl"
+   ],
+   "url": [
+    "https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&output=playlist.m3u8&protocol=https&service=wowza&type=live"
+   ]
+  },
+  {
+   "id": "nl-omroepbrabantnl",
+   "ad": "Omroep Brabant",
+   "alt": "general",
+   "ulke": "nl",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/KLYsKKC.png",
+   "iptv": [
+    "OmroepBrabant.nl"
+   ],
+   "url": [
+    "https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8"
+   ]
+  },
+  {
+   "id": "nl-omroepbrabantradionl",
+   "ad": "Omroep Brabant Radio",
+   "alt": "general",
+   "ulke": "nl",
+   "kalite": "FHD",
+   "logo": "",
+   "iptv": [
+    "OmroepBrabantRadio.nl"
+   ],
+   "url": [
+    "https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8"
+   ]
+  },
+  {
+   "id": "nl-omroepgelderlandnl",
+   "ad": "Omroep Gelderland",
+   "alt": "general",
+   "ulke": "nl",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/G08hKit.png",
+   "iptv": [
+    "OmroepGelderland.nl"
+   ],
+   "url": [
+    "https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8"
+   ]
+  },
+  {
+   "id": "nl-omroepzeelandnl",
+   "ad": "Omroep Zeeland",
+   "alt": "general",
+   "ulke": "nl",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/3c3QUSn.png",
+   "iptv": [
+    "OmroepZeeland.nl"
+   ],
+   "url": [
+    "https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8"
+   ]
+  },
+  {
+   "id": "nl-rtvrijnmondextranl",
+   "ad": "RTV Rijnmond Extra",
+   "alt": "general",
+   "ulke": "nl",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/mlrd5ia.png",
+   "iptv": [
+    "RTVRijnmondExtra.nl"
+   ],
+   "url": [
+    "http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8"
+   ]
+  }
+ ]
+}

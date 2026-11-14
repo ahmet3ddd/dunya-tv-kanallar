@@ -1,0 +1,175 @@
+{
+ "ulke": "vn",
+ "ad": "Vietnam",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "vn-dongnaitv1vn",
+   "ad": "Dong Nai TV 1",
+   "alt": "news, general",
+   "ulke": "vn",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/oQyioVa.png",
+   "iptv": [
+    "DongNaiTV1.vn"
+   ],
+   "url": [
+    "https://freem3u.xyz/api/live/play.m3u8?vid=53"
+   ]
+  },
+  {
+   "id": "vn-vinhlongtv5vn",
+   "ad": "Vinh Long TV 5",
+   "alt": "culture, entertainment, music,",
+   "ulke": "vn",
+   "kalite": "FHD",
+   "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%205%20HD.png",
+   "iptv": [
+    "VinhLongTV5.vn"
+   ],
+   "url": [
+    "https://freem3u.xyz/api/live/play.m3u8?vid=91"
+   ]
+  },
+  {
+   "id": "vn-htv5vn",
+   "ad": "HTV5",
+   "alt": "culture",
+   "ulke": "vn",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/HTV5_Bchannel.png",
+   "iptv": [
+    "HTV5.vn"
+   ],
+   "url": [
+    "https://freem3u.xyz/api/live/play.m3u8?vid=151"
+   ]
+  },
+  {
+   "id": "vn-canthotvvn",
+   "ad": "Can Tho TV",
+   "alt": "general",
+   "ulke": "vn",
+   "kalite": "FHD",
+   "logo": "https://i.ibb.co/MDhNH26J/cantho1-2025.png",
+   "iptv": [
+    "CanThoTV.vn"
+   ],
+   "url": [
+    "https://live.canthotv.vn/live/tv/chunklist.m3u8"
+   ]
+  },
+  {
+   "id": "vn-dienbientvvn",
+   "ad": "Dien Bien TV",
+   "alt": "general",
+   "ulke": "vn",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/u308o8q.png",
+   "iptv": [
+    "DienBienTV.vn"
+   ],
+   "url": [
+    "https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "vn-laocaitvvn",
+   "ad": "Lao Cai TV",
+   "alt": "general",
+   "ulke": "vn",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/TLvrDHa.png",
+   "iptv": [
+    "LaoCaiTV.vn"
+   ],
+   "url": [
+    "https://live.baolaocai.vn/channel2/stream.m3u8"
+   ]
+  },
+  {
+   "id": "vn-ngheantvvn",
+   "ad": "Nghe An TV",
+   "alt": "general",
+   "ulke": "vn",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/d9YEEwC.png",
+   "iptv": [
+    "NgheAnTV.vn"
+   ],
+   "url": [
+    "https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8"
+   ]
+  },
+  {
+   "id": "vn-tvbvietnamvn",
+   "ad": "TVB Vietnam",
+   "alt": "general",
+   "ulke": "vn",
+   "kalite": "FHD",
+   "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/TVB%20Vietnam.jpeg",
+   "iptv": [
+    "TVBVietnam.vn"
+   ],
+   "url": [
+    "https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "vn-caobangtvvn",
+   "ad": "Cao Bang TV",
+   "alt": "general",
+   "ulke": "vn",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/dGonewm.png",
+   "iptv": [
+    "CaoBangTV.vn"
+   ],
+   "url": [
+    "https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8"
+   ]
+  },
+  {
+   "id": "vn-gialaitvvn",
+   "ad": "Gia Lai TV",
+   "alt": "general",
+   "ulke": "vn",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/oUSJX0X.png",
+   "iptv": [
+    "GiaLaiTV.vn"
+   ],
+   "url": [
+    "http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8"
+   ]
+  },
+  {
+   "id": "vn-tayninhtvvn",
+   "ad": "Tay Ninh TV",
+   "alt": "general",
+   "ulke": "vn",
+   "kalite": "HD",
+   "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Logo%20kh%C3%A1c/TTV11%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20T%C3%A2y%20Ninh%20HD/TTV11%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20T%C3%A2y%20Ninh.png",
+   "iptv": [
+    "TayNinhTV.vn"
+   ],
+   "url": [
+    "https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8"
+   ]
+  },
+  {
+   "id": "vn-thainguyentvvn",
+   "ad": "Thai Nguyen TV",
+   "alt": "general",
+   "ulke": "vn",
+   "kalite": "HD",
+   "logo": "https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png",
+   "iptv": [
+    "ThaiNguyenTV.vn"
+   ],
+   "url": [
+    "https://streaming.thainguyentv.vn/hls/livestream.m3u8"
+   ]
+  }
+ ]
+}

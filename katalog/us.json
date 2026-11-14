@@ -1,0 +1,175 @@
+{
+ "ulke": "us",
+ "ad": "ABD",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "us-bxinformus",
+   "ad": "BX Inform",
+   "alt": "general, news",
+   "ulke": "us",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/PF71rdZ.png",
+   "iptv": [
+    "BXInform.us"
+   ],
+   "url": [
+    "https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8"
+   ]
+  },
+  {
+   "id": "us-cnninternationalus",
+   "ad": "CNN International",
+   "alt": "news",
+   "ulke": "us",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/dfxefQw.png",
+   "iptv": [
+    "CNNInternational.us"
+   ],
+   "url": [
+    "http://168.228.44.241:9997/play/a073/index.m3u8"
+   ]
+  },
+  {
+   "id": "us-cnnoriginalsus",
+   "ad": "CNN Originals",
+   "alt": "news",
+   "ulke": "us",
+   "kalite": "FHD",
+   "logo": "https://provider-static.plex.tv/epg/cms/production/f351d697-1e1f-4e7d-86c7-5995698e593f/CNN_Originals_ChannelLogo_Dark_1500x1000_2025_-_Grace_Hartwig.png",
+   "iptv": [
+    "CNNOriginals.us"
+   ],
+   "url": [
+    "https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "us-cnnenespanolus",
+   "ad": "CNN en Espanol",
+   "alt": "news",
+   "ulke": "us",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",
+   "iptv": [
+    "CNNenEspanol.us"
+   ],
+   "url": [
+    "https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "us-cheddarnewsus",
+   "ad": "Cheddar News",
+   "alt": "news",
+   "ulke": "us",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/tuP9GW8.png",
+   "iptv": [
+    "CheddarNews.us"
+   ],
+   "url": [
+    "https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "us-elatinamericaus",
+   "ad": "E! Latin America",
+   "alt": "entertainment, news",
+   "ulke": "us",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png",
+   "iptv": [
+    "ELatinAmerica.us"
+   ],
+   "url": [
+    "http://38.134.250.110:8000/play/a00x/index.m3u8"
+   ]
+  },
+  {
+   "id": "us-entertainmenttonightus",
+   "ad": "Entertainment Tonight",
+   "alt": "news, entertainment",
+   "ulke": "us",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/960px-Entertainment_Tonight_2021.svg.png",
+   "iptv": [
+    "EntertainmentTonight.us"
+   ],
+   "url": [
+    "https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8"
+   ]
+  },
+  {
+   "id": "us-estrellanewsus",
+   "ad": "Estrella News",
+   "alt": "news",
+   "ulke": "us",
+   "kalite": "FHD",
+   "logo": "https://cdn-profiles.tunein.com/s320627/images/logoq.png?t=1",
+   "iptv": [
+    "EstrellaNews.us"
+   ],
+   "url": [
+    "https://amg00567-estrellamedia-estrellanews-distrotv-ddste.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-distrotv/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "us-foxnewschannelus",
+   "ad": "Fox News Channel",
+   "alt": "news",
+   "ulke": "us",
+   "kalite": "SD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
+   "iptv": [
+    "FoxNewsChannel.us"
+   ],
+   "url": [
+    "https://tvsen6.aynaott.com/foxnews/index.m3u8"
+   ]
+  },
+  {
+   "id": "us-livenowfromfoxus",
+   "ad": "LiveNOW from FOX",
+   "alt": "news",
+   "ulke": "us",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/1JnyzHv.png",
+   "iptv": [
+    "LiveNOWfromFOX.us"
+   ],
+   "url": [
+    "https://aka-live1050.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8"
+   ]
+  },
+  {
+   "id": "us-ntdtvenglishus",
+   "ad": "NTD TV English",
+   "alt": "news, general",
+   "ulke": "us",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/OePd5AF.png",
+   "iptv": [
+    "NTDTVEnglish.us"
+   ],
+   "url": [
+    "https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "us-newsmax2us",
+   "ad": "Newsmax 2",
+   "alt": "news",
+   "ulke": "us",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/iE1izWq.png",
+   "iptv": [
+    "Newsmax2.us"
+   ],
+   "url": [
+    "https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8"
+   ]
+  }
+ ]
+}

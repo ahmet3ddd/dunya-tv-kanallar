@@ -1,0 +1,175 @@
+{
+ "ulke": "br",
+ "ad": "Brezilya",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "br-cnnbrasilbr",
+   "ad": "CNN Brasil",
+   "alt": "news",
+   "ulke": "br",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png",
+   "iptv": [
+    "CNNBrasil.br"
+   ],
+   "url": [
+    "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8"
+   ]
+  },
+  {
+   "id": "br-tcm10hdbr",
+   "ad": "TCM 10 HD",
+   "alt": "news",
+   "ulke": "br",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/aMuMVvB.png",
+   "iptv": [
+    "TCM10HD.br"
+   ],
+   "url": [
+    "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
+   ]
+  },
+  {
+   "id": "br-tvnatalbr",
+   "ad": "TV Natal",
+   "alt": "general, news, entertainment",
+   "ulke": "br",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/wqQmQml.png",
+   "iptv": [
+    "TVNatal.br"
+   ],
+   "url": [
+    "http://185.228.163.146:8000/play/a01y/index.m3u8"
+   ]
+  },
+  {
+   "id": "br-vejaplustvbr",
+   "ad": "VEJA+ TV",
+   "alt": "news",
+   "ulke": "br",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/n0pxHo4.png",
+   "iptv": [
+    "VEJAPlusTV.br"
+   ],
+   "url": [
+    "https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8"
+   ]
+  },
+  {
+   "id": "br-agromaisbr",
+   "ad": "AgroMais",
+   "alt": "news",
+   "ulke": "br",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/sFcOZeo.png",
+   "iptv": [
+    "AgroMais.br"
+   ],
+   "url": [
+    "http://170.83.16.50/AGRO_MAIS/index.m3u8"
+   ]
+  },
+  {
+   "id": "br-jovempannewsbr",
+   "ad": "Jovem Pan News",
+   "alt": "news",
+   "ulke": "br",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png",
+   "iptv": [
+    "JovemPanNews.br"
+   ],
+   "url": [
+    "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8"
+   ]
+  },
+  {
+   "id": "br-recordnewsbr",
+   "ad": "Record News",
+   "alt": "news",
+   "ulke": "br",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/HZDRG0K.png",
+   "iptv": [
+    "RecordNews.br"
+   ],
+   "url": [
+    "http://170.83.16.50/RECORD_NEWS/index.m3u8"
+   ]
+  },
+  {
+   "id": "br-tvbrusquebr",
+   "ad": "TV Brusque",
+   "alt": "news",
+   "ulke": "br",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/J2EAZPS.png",
+   "iptv": [
+    "TVBrusque.br"
+   ],
+   "url": [
+    "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "br-tvsimcachoeirobr",
+   "ad": "TV Sim Cachoeiro",
+   "alt": "news",
+   "ulke": "br",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/t5oUK3C.png",
+   "iptv": [
+    "TVSimCachoeiro.br"
+   ],
+   "url": [
+    "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "br-historybr",
+   "ad": "History",
+   "alt": "documentary",
+   "ulke": "br",
+   "kalite": "HD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+   "iptv": [
+    "History.br"
+   ],
+   "url": [
+    "http://170.83.16.50/HISTORY/index.m3u8"
+   ]
+  },
+  {
+   "id": "br-tversbr",
+   "ad": "TVE RS",
+   "alt": "culture, education",
+   "ulke": "br",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/MQ6lJpS.png",
+   "iptv": [
+    "TVERS.br"
+   ],
+   "url": [
+    "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "br-tvufopbr",
+   "ad": "TV UFOP",
+   "alt": "public, education, culture",
+   "ulke": "br",
+   "kalite": "FHD",
+   "logo": "https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png",
+   "iptv": [
+    "TVUFOP.br"
+   ],
+   "url": [
+    "https://app.tvufop.com.br/hls/tvufop.m3u8"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "ulke": "ae",
+ "ad": "BAE",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "ae-alarabiyaprogramsae",
+   "ad": "Al Arabiya Programs",
+   "alt": "documentary, news",
+   "ulke": "ae",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/Hoc3cfO.png",
+   "iptv": [
+    "AlArabiyaPrograms.ae"
+   ],
+   "url": [
+    "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ae-alyaumtvae",
+   "ad": "Al Yaum TV",
+   "alt": "news",
+   "ulke": "ae",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/rBixF3P.png",
+   "iptv": [
+    "AlYaumTV.ae"
+   ],
+   "url": [
+    "https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8"
+   ]
+  },
+  {
+   "id": "ae-alarabiyaae",
+   "ad": "Alarabiya",
+   "alt": "news",
+   "ulke": "ae",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/NXFkYFj.png",
+   "iptv": [
+    "Alarabiya.ae"
+   ],
+   "url": [
+    "http://185.9.2.18/chid_146/index.m3u8"
+   ]
+  },
+  {
+   "id": "ae-skynewsarabiaae",
+   "ad": "Sky News Arabia",
+   "alt": "news",
+   "ulke": "ae",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/SvjU4h6.png",
+   "iptv": [
+    "SkyNewsArabia.ae"
+   ],
+   "url": [
+    "https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8"
+   ]
+  },
+  {
+   "id": "ae-skynewsarabiaverticalae",
+   "ad": "Sky News Arabia Vertical",
+   "alt": "news",
+   "ulke": "ae",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/FjtzQQs.png",
+   "iptv": [
+    "SkyNewsArabiaVertical.ae"
+   ],
+   "url": [
+    "https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8"
+   ]
+  },
+  {
+   "id": "ae-ajmantvae",
+   "ad": "Ajman TV",
+   "alt": "general",
+   "ulke": "ae",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/hVNIwgE.png",
+   "iptv": [
+    "AjmanTV.ae"
+   ],
+   "url": [
+    "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ae-alshallaltvae",
+   "ad": "Al Shallal TV",
+   "alt": "general",
+   "ulke": "ae",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/otAHLRo.png",
+   "iptv": [
+    "AlShallalTV.ae"
+   ],
+   "url": [
+    "https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ae-alsharqiyaminkablaae",
+   "ad": "Al Sharqiya Min Kabla",
+   "alt": "general",
+   "ulke": "ae",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/m4qheI4.png",
+   "iptv": [
+    "AlSharqiyaMinKabla.ae"
+   ],
+   "url": [
+    "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ae-alwoustatvae",
+   "ad": "Al Wousta TV",
+   "alt": "general",
+   "ulke": "ae",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/zgMqQPQ.png",
+   "iptv": [
+    "AlWoustaTV.ae"
+   ],
+   "url": [
+    "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ae-mbc1ae",
+   "ad": "MBC 1",
+   "alt": "general",
+   "ulke": "ae",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/CiA3plN.png",
+   "iptv": [
+    "MBC1.ae"
+   ],
+   "url": [
+    "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8"
+   ]
+  },
+  {
+   "id": "ae-sharjahradioae",
+   "ad": "Sharjah Radio",
+   "alt": "general",
+   "ulke": "ae",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/q7GGALe.png",
+   "iptv": [
+    "SharjahRadio.ae"
+   ],
+   "url": [
+    "https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ae-mbc4ae",
+   "ad": "MBC 4",
+   "alt": "entertainment",
+   "ulke": "ae",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/BcXASJp.png",
+   "iptv": [
+    "MBC4.ae"
+   ],
+   "url": [
+    "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8"
+   ]
+  }
+ ]
+}

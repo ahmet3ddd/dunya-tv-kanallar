@@ -1,0 +1,133 @@
+{
+ "ulke": "kr",
+ "ad": "Güney Kore",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "kr-arirangtvkr",
+   "ad": "Arirang TV",
+   "alt": "news, general",
+   "ulke": "kr",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/kk2MdNC.png",
+   "iptv": [
+    "ArirangTV.kr"
+   ],
+   "url": [
+    "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "kr-arirangunkr",
+   "ad": "Arirang UN",
+   "alt": "news",
+   "ulke": "kr",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/Jdy3WNm.png",
+   "iptv": [
+    "ArirangUN.kr"
+   ],
+   "url": [
+    "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "kr-ktvkr",
+   "ad": "KTV",
+   "alt": "legislative, news",
+   "ulke": "kr",
+   "kalite": "FHD",
+   "logo": "https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png",
+   "iptv": [
+    "KTV.kr"
+   ],
+   "url": [
+    "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "kr-abnkr",
+   "ad": "ABN",
+   "alt": "general",
+   "ulke": "kr",
+   "kalite": "HD",
+   "logo": "https://www.abn.co.kr/resources/images/logo.png",
+   "iptv": [
+    "ABN.kr"
+   ],
+   "url": [
+    "https://vod2.abn.co.kr/IPHONE/abn.m3u8"
+   ]
+  },
+  {
+   "id": "kr-arirangradiokr",
+   "ad": "Arirang Radio",
+   "alt": "general",
+   "ulke": "kr",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/dtfiG9k.png",
+   "iptv": [
+    "ArirangRadio.kr"
+   ],
+   "url": [
+    "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "kr-ounkr",
+   "ad": "OUN",
+   "alt": "education",
+   "ulke": "kr",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/7s6JtcU.png",
+   "iptv": [
+    "OUN.kr"
+   ],
+   "url": [
+    "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "kr-nbskr",
+   "ad": "NBS",
+   "alt": "education",
+   "ulke": "kr",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/pOSroOE.png",
+   "iptv": [
+    "NBS.kr"
+   ],
+   "url": [
+    "https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "kr-nhtvkr",
+   "ad": "NHTV",
+   "alt": "entertainment",
+   "ulke": "kr",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/DfECkgB.png",
+   "iptv": [
+    "NHTV.kr"
+   ],
+   "url": [
+    "http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "kr-gugaktvkr",
+   "ad": "Gugak TV",
+   "alt": "music",
+   "ulke": "kr",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/Ey7Htm8.png",
+   "iptv": [
+    "GugakTV.kr"
+   ],
+   "url": [
+    "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8"
+   ]
+  }
+ ]
+}

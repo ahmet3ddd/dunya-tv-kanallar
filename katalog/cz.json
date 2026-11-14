@@ -1,0 +1,175 @@
+{
+ "ulke": "cz",
+ "ad": "Çekya",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "cz-cnnprimanewscz",
+   "ad": "CNN Prima News",
+   "alt": "news",
+   "ulke": "cz",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/elZyUjX.png",
+   "iptv": [
+    "CNNPrimaNews.cz"
+   ],
+   "url": [
+    "http://88.212.15.50/live/test_cnn_pirma_news/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "cz-ct24cz",
+   "ad": "CT24",
+   "alt": "news",
+   "ulke": "cz",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/960px-%C4%8CT24_logo.png",
+   "iptv": [
+    "CT24.cz"
+   ],
+   "url": [
+    "http://88.212.15.50/live/test_ct24_hevc/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "cz-currenttimetvcz",
+   "ad": "Current Time TV",
+   "alt": "news",
+   "ulke": "cz",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/hKo8ApU.png",
+   "iptv": [
+    "CurrentTimeTV.cz"
+   ],
+   "url": [
+    "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8"
+   ]
+  },
+  {
+   "id": "cz-barrandovkrimicz",
+   "ad": "Barrandov Krimi",
+   "alt": "general",
+   "ulke": "cz",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo-krimi-barrandov-color.svg/960px-Logo-krimi-barrandov-color.svg.png",
+   "iptv": [
+    "BarrandovKrimi.cz"
+   ],
+   "url": [
+    "https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "cz-jc1cz",
+   "ad": "JC1",
+   "alt": "general",
+   "ulke": "cz",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/AM8YtcV.png",
+   "iptv": [
+    "JC1.cz"
+   ],
+   "url": [
+    "https://stream.jc1.cz/hls/jc1.m3u8"
+   ]
+  },
+  {
+   "id": "cz-jihoceskatelevizecz",
+   "ad": "Jihoceska televize",
+   "alt": "general",
+   "ulke": "cz",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/Hi8hZzl.png",
+   "iptv": [
+    "Jihoceskatelevize.cz"
+   ],
+   "url": [
+    "https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8"
+   ]
+  },
+  {
+   "id": "cz-plzentvcz",
+   "ad": "Plzen TV",
+   "alt": "general",
+   "ulke": "cz",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/TxLKSqL.png",
+   "iptv": [
+    "PlzenTV.cz"
+   ],
+   "url": [
+    "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8"
+   ]
+  },
+  {
+   "id": "cz-polartvcz",
+   "ad": "Polar TV",
+   "alt": "general",
+   "ulke": "cz",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/pTJHIX1.png",
+   "iptv": [
+    "PolarTV.cz"
+   ],
+   "url": [
+    "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "cz-tvbrno1cz",
+   "ad": "TV Brno 1",
+   "alt": "general",
+   "ulke": "cz",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/8Xm3WSn.png",
+   "iptv": [
+    "TVBrno1.cz"
+   ],
+   "url": [
+    "https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "cz-ctdeckocz",
+   "ad": "CT Decko",
+   "alt": "kids",
+   "ulke": "cz",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png",
+   "iptv": [
+    "CTDecko.cz"
+   ],
+   "url": [
+    "http://88.212.15.50/live/ct_art_avc_25p/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "cz-yachtingtvcz",
+   "ad": "Yachting TV",
+   "alt": "lifestyle",
+   "ulke": "cz",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/YxO60B1.png",
+   "iptv": [
+    "YachtingTV.cz"
+   ],
+   "url": [
+    "https://streams2.sofast.tv/vglive-sk-461164/index.m3u8"
+   ]
+  },
+  {
+   "id": "cz-minimaxceecz",
+   "ad": "Minimax CEE",
+   "alt": "kids",
+   "ulke": "cz",
+   "kalite": "SD",
+   "logo": "https://i.imgur.com/WWOlm1x.png",
+   "iptv": [
+    "MinimaxCEE.cz"
+   ],
+   "url": [
+    "http://88.212.15.50/live/test_minimax/playlist.m3u8"
+   ]
+  }
+ ]
+}

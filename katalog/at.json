@@ -1,0 +1,133 @@
+{
+ "ulke": "at",
+ "ad": "Avusturya",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "at-orfiiiat",
+   "ad": "ORF III",
+   "alt": "culture",
+   "ulke": "at",
+   "kalite": "HD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/960px-ORF_III_Logo_Monochrom.svg.png",
+   "iptv": [
+    "ORFIII.at"
+   ],
+   "url": [
+    "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
+   ]
+  },
+  {
+   "id": "at-oktoat",
+   "ad": "Okto",
+   "alt": "general",
+   "ulke": "at",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/9XfhgbS.png",
+   "iptv": [
+    "Okto.at"
+   ],
+   "url": [
+    "https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "at-steiermarktvat",
+   "ad": "Steiermark TV",
+   "alt": "general",
+   "ulke": "at",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/AJrUPze.png",
+   "iptv": [
+    "SteiermarkTV.at"
+   ],
+   "url": [
+    "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref="
+   ]
+  },
+  {
+   "id": "at-orf2at",
+   "ad": "ORF 2",
+   "alt": "general",
+   "ulke": "at",
+   "kalite": "HD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e7/ORF2_logo_n.svg",
+   "iptv": [
+    "ORF2.at"
+   ],
+   "url": [
+    "http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "at-schladmingdachsteintvat",
+   "ad": "Schladming-Dachstein TV",
+   "alt": "travel",
+   "ulke": "at",
+   "kalite": "HD",
+   "logo": "https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg",
+   "iptv": [
+    "SchladmingDachsteinTV.at"
+   ],
+   "url": [
+    "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "at-kronehitat",
+   "ad": "Kronehit",
+   "alt": "music",
+   "ulke": "at",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/dQJQv1X.png",
+   "iptv": [
+    "Kronehit.at"
+   ],
+   "url": [
+    "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "at-antennekaerntenat",
+   "ad": "Antenne Kaernten",
+   "alt": "music",
+   "ulke": "at",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/nUKFDsb.jpeg",
+   "iptv": [
+    "AntenneKaernten.at"
+   ],
+   "url": [
+    "https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "at-antennesteiermarkat",
+   "ad": "Antenne Steiermark",
+   "alt": "music",
+   "ulke": "at",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/qnappvd.jpeg",
+   "iptv": [
+    "AntenneSteiermark.at"
+   ],
+   "url": [
+    "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "at-servustvat",
+   "ad": "ServusTV",
+   "alt": "movies",
+   "ulke": "at",
+   "kalite": "SD",
+   "logo": "https://i.imgur.com/6W637Gn.png",
+   "iptv": [
+    "ServusTV.at"
+   ],
+   "url": [
+    "https://s6.hopslan.com/servuz1/index.m3u8"
+   ]
+  }
+ ]
+}

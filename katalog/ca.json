@@ -1,0 +1,175 @@
+{
+ "ulke": "ca",
+ "ad": "Kanada",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "ca-hamdardtvca",
+   "ad": "Hamdard TV",
+   "alt": "news",
+   "ulke": "ca",
+   "kalite": "HD",
+   "logo": "https://i.ibb.co/JcD2xck/logo-hamda.png",
+   "iptv": [
+    "HamdardTV.ca"
+   ],
+   "url": [
+    "https://tv.hamdardtv.com/hamdard/index.m3u8"
+   ]
+  },
+  {
+   "id": "ca-probashitvnewsca",
+   "ad": "Probashi TV News",
+   "alt": "news",
+   "ulke": "ca",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/7oTsfQ4.png",
+   "iptv": [
+    "ProbashiTVNews.ca"
+   ],
+   "url": [
+    "http://158.69.24.53:8080/probashi_tv/index.m3u8"
+   ]
+  },
+  {
+   "id": "ca-citynewscalgaryca",
+   "ad": "CityNews Calgary",
+   "alt": "news",
+   "ulke": "ca",
+   "kalite": "HD",
+   "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+   "iptv": [
+    "CityNewsCalgary.ca"
+   ],
+   "url": [
+    "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8"
+   ]
+  },
+  {
+   "id": "ca-citynewstorontoca",
+   "ad": "CityNews Toronto",
+   "alt": "news",
+   "ulke": "ca",
+   "kalite": "HD",
+   "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+   "iptv": [
+    "CityNewsToronto.ca"
+   ],
+   "url": [
+    "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8"
+   ]
+  },
+  {
+   "id": "ca-citynewsvancouverca",
+   "ad": "CityNews Vancouver",
+   "alt": "news",
+   "ulke": "ca",
+   "kalite": "HD",
+   "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
+   "iptv": [
+    "CityNewsVancouver.ca"
+   ],
+   "url": [
+    "https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8"
+   ]
+  },
+  {
+   "id": "ca-lovepetsca",
+   "ad": "Love Pets",
+   "alt": "documentary",
+   "ulke": "ca",
+   "kalite": "FHD",
+   "logo": "https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png",
+   "iptv": [
+    "LovePets.ca"
+   ],
+   "url": [
+    "https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ca-naturetimeca",
+   "ad": "NatureTime",
+   "alt": "documentary",
+   "ulke": "ca",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/72JmyjM.png",
+   "iptv": [
+    "NatureTime.ca"
+   ],
+   "url": [
+    "https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ca-totalcrimeca",
+   "ad": "Total Crime",
+   "alt": "documentary",
+   "ulke": "ca",
+   "kalite": "FHD",
+   "logo": "https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG_1731000193486.png",
+   "iptv": [
+    "TotalCrime.ca"
+   ],
+   "url": [
+    "https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ca-cmalayalamtvca",
+   "ad": "C Malayalam TV",
+   "alt": "culture",
+   "ulke": "ca",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/rpg0bQA.png",
+   "iptv": [
+    "CMalayalamTV.ca"
+   ],
+   "url": [
+    "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ca-doyeltvca",
+   "ad": "Doyel TV",
+   "alt": "culture",
+   "ulke": "ca",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/8pR8Q4J.png",
+   "iptv": [
+    "DoyelTV.ca"
+   ],
+   "url": [
+    "https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8"
+   ]
+  },
+  {
+   "id": "ca-hydertvca",
+   "ad": "Hyder TV",
+   "alt": "culture",
+   "ulke": "ca",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/reHjjRZ.png",
+   "iptv": [
+    "HyderTV.ca"
+   ],
+   "url": [
+    "https://cdn.live247stream.com/hyder/tv/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ca-pardesitvca",
+   "ad": "Pardesi TV",
+   "alt": "culture",
+   "ulke": "ca",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/CwAdPpZ.jpg",
+   "iptv": [
+    "PardesiTV.ca"
+   ],
+   "url": [
+    "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
+   ]
+  }
+ ]
+}

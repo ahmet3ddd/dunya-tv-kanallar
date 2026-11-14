@@ -1,0 +1,133 @@
+{
+ "ulke": "ch",
+ "ad": "İsviçre",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "ch-waterbearch",
+   "ad": "WaterBear",
+   "alt": "documentary, outdoor",
+   "ulke": "ch",
+   "kalite": "FHD",
+   "logo": "https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png",
+   "iptv": [
+    "WaterBear.ch"
+   ],
+   "url": [
+    "https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ch-wedobigstoriesch",
+   "ad": "Wedo Big Stories",
+   "alt": "documentary",
+   "ulke": "ch",
+   "kalite": "FHD",
+   "logo": "https://provider-static.plex.tv/epg/cms/production/49cf6309-0a4a-4d39-bdcc-fa48e4ef84a7/WEDOBIGSTORIES_LIGHTTHEME_-_Sorin_Stoian.png",
+   "iptv": [
+    "WedoBigStories.ch"
+   ],
+   "url": [
+    "https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ch-maxtvch",
+   "ad": "Max TV",
+   "alt": "general",
+   "ulke": "ch",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/13PjEk8.png",
+   "iptv": [
+    "MaxTV.ch"
+   ],
+   "url": [
+    "https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ch-wedotvamorch",
+   "ad": "Wedo TV Amor",
+   "alt": "general",
+   "ulke": "ch",
+   "kalite": "FHD",
+   "logo": "https://cdn-01.watch4.com/01/1720621000_wedo-amor_white_logo.png",
+   "iptv": [
+    "WedoTVAmor.ch"
+   ],
+   "url": [
+    "https://amg00735-videosolutions-amg00735c15-wedotv-eu-1915.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-wedotveu/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ch-carac1ch",
+   "ad": "Carac 1",
+   "alt": "entertainment",
+   "ulke": "ch",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/TSc35U6.png",
+   "iptv": [
+    "Carac1.ch"
+   ],
+   "url": [
+    "https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8"
+   ]
+  },
+  {
+   "id": "ch-carac2ch",
+   "ad": "Carac 2",
+   "alt": "entertainment",
+   "ulke": "ch",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/hCoIPen.png",
+   "iptv": [
+    "Carac2.ch"
+   ],
+   "url": [
+    "https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8"
+   ]
+  },
+  {
+   "id": "ch-carac3ch",
+   "ad": "Carac 3",
+   "alt": "entertainment",
+   "ulke": "ch",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/C4e8cjt.png",
+   "iptv": [
+    "Carac3.ch"
+   ],
+   "url": [
+    "https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ch-carac4ch",
+   "ad": "Carac 4",
+   "alt": "entertainment",
+   "ulke": "ch",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/Dj5LPy3.png",
+   "iptv": [
+    "Carac4.ch"
+   ],
+   "url": [
+    "https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ch-radiodiscounttvch",
+   "ad": "RADIO DISCOunt TV",
+   "alt": "music",
+   "ulke": "ch",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/ScNYMmx.png",
+   "iptv": [
+    "RADIODISCOuntTV.ch"
+   ],
+   "url": [
+    "https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8"
+   ]
+  }
+ ]
+}

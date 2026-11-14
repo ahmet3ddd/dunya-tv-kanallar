@@ -1,0 +1,175 @@
+{
+ "ulke": "il",
+ "ad": "İsrail",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "il-channel9il",
+   "ad": "Channel 9",
+   "alt": "news",
+   "ulke": "il",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/pttM3KQ.png",
+   "iptv": [
+    "Channel9.il"
+   ],
+   "url": [
+    "https://contact.gostreaming.tv/Con-11/index.m3u8"
+   ]
+  },
+  {
+   "id": "il-makan33il",
+   "ad": "Makan 33",
+   "alt": "news",
+   "ulke": "il",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/RVtQTed.png",
+   "iptv": [
+    "Makan33.il"
+   ],
+   "url": [
+    "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "il-i24newsarabicil",
+   "ad": "i24NEWS Arabic",
+   "alt": "news",
+   "ulke": "il",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+   "iptv": [
+    "i24NEWSArabic.il"
+   ],
+   "url": [
+    "https://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8"
+   ]
+  },
+  {
+   "id": "il-i24newsenglishworldil",
+   "ad": "i24NEWS English World",
+   "alt": "news",
+   "ulke": "il",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+   "iptv": [
+    "i24NEWSEnglishWorld.il"
+   ],
+   "url": [
+    "https://hlspackager.akamaized.net/live/DB/i24_ENGLISH/HLS/i24_ENGLISH.m3u8"
+   ]
+  },
+  {
+   "id": "il-i24newsfrenchil",
+   "ad": "i24NEWS French",
+   "alt": "news",
+   "ulke": "il",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+   "iptv": [
+    "i24NEWSFrench.il"
+   ],
+   "url": [
+    "https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8"
+   ]
+  },
+  {
+   "id": "il-i24newshebrewil",
+   "ad": "i24NEWS Hebrew",
+   "alt": "news",
+   "ulke": "il",
+   "kalite": "FHD",
+   "logo": "https://www.i24news.tv/images/favicon.png",
+   "iptv": [
+    "i24NEWSHebrew.il"
+   ],
+   "url": [
+    "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8"
+   ]
+  },
+  {
+   "id": "il-kan11il",
+   "ad": "Kan 11",
+   "alt": "general",
+   "ulke": "il",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/960px-Kan11Logo.svg.png",
+   "iptv": [
+    "Kan11.il"
+   ],
+   "url": [
+    "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "il-now14il",
+   "ad": "Now 14",
+   "alt": "general",
+   "ulke": "il",
+   "kalite": "SD",
+   "logo": "https://i.imgur.com/Iq2Kb69.png",
+   "iptv": [
+    "Now14.il"
+   ],
+   "url": [
+    "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "il-vivapremiumil",
+   "ad": "Viva Premium",
+   "alt": "general",
+   "ulke": "il",
+   "kalite": "FHD",
+   "logo": "https://cdn.epg.one/img2/9055.png",
+   "iptv": [
+    "VivaPremium.il"
+   ],
+   "url": [
+    "http://stream.mcquack.net/43/index.m3u8"
+   ]
+  },
+  {
+   "id": "il-channel13il",
+   "ad": "Channel 13",
+   "alt": "general",
+   "ulke": "il",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/eFM3bTq.png",
+   "iptv": [
+    "Channel13.il"
+   ],
+   "url": [
+    "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8"
+   ]
+  },
+  {
+   "id": "il-kaneducationalil",
+   "ad": "Kan Educational",
+   "alt": "education",
+   "ulke": "il",
+   "kalite": "SD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png",
+   "iptv": [
+    "KanEducational.il"
+   ],
+   "url": [
+    "http://stream.mcquack.net/378/index.m3u8"
+   ]
+  },
+  {
+   "id": "il-hopil",
+   "ad": "Hop!",
+   "alt": "kids",
+   "ulke": "il",
+   "kalite": "SD",
+   "logo": "https://i.imgur.com/bScuilD.png",
+   "iptv": [
+    "Hop.il"
+   ],
+   "url": [
+    "http://stream.mcquack.net/44/index.m3u8"
+   ]
+  }
+ ]
+}

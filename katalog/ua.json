@@ -1,0 +1,175 @@
+{
+ "ulke": "ua",
+ "ad": "Ukrayna",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "ua-armytvua",
+   "ad": "Army TV",
+   "alt": "news",
+   "ulke": "ua",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/pGByjbh.png",
+   "iptv": [
+    "ArmyTV.ua"
+   ],
+   "url": [
+    "https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8"
+   ]
+  },
+  {
+   "id": "ua-channel5ua",
+   "ad": "Channel 5",
+   "alt": "news",
+   "ulke": "ua",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/a9JJXPk.png",
+   "iptv": [
+    "Channel5.ua"
+   ],
+   "url": [
+    "https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8"
+   ]
+  },
+  {
+   "id": "ua-espresotvua",
+   "ad": "Espreso TV",
+   "alt": "news",
+   "ulke": "ua",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/xNatV8K.png",
+   "iptv": [
+    "EspresoTV.ua"
+   ],
+   "url": [
+    "https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8"
+   ]
+  },
+  {
+   "id": "ua-freedomua",
+   "ad": "FREEDOM",
+   "alt": "news",
+   "ulke": "ua",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png",
+   "iptv": [
+    "FREEDOM.ua"
+   ],
+   "url": [
+    "https://dash4.antik.sk/live/test_uatv/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ua-kyivua",
+   "ad": "Kyiv",
+   "alt": "news",
+   "ulke": "ua",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/TVuCY4N.png",
+   "iptv": [
+    "Kyiv.ua"
+   ],
+   "url": [
+    "https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8"
+   ]
+  },
+  {
+   "id": "ua-24kanalua",
+   "ad": "24 Kanal",
+   "alt": "news",
+   "ulke": "ua",
+   "kalite": "HD",
+   "logo": "https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg",
+   "iptv": [
+    "24Kanal.ua"
+   ],
+   "url": [
+    "https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ua-ptvua",
+   "ad": "PTV",
+   "alt": "news",
+   "ulke": "ua",
+   "kalite": "SD",
+   "logo": "https://i.imgur.com/WDHoSVz.png",
+   "iptv": [
+    "PTV.ua"
+   ],
+   "url": [
+    "https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ua-reporterua",
+   "ad": "Reporter",
+   "alt": "news",
+   "ulke": "ua",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/LyA3kBR.png",
+   "iptv": [
+    "Reporter.ua"
+   ],
+   "url": [
+    "http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ua-sk1ua",
+   "ad": "SK 1",
+   "alt": "news",
+   "ulke": "ua",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/XiXwr5h.png",
+   "iptv": [
+    "SK1.ua"
+   ],
+   "url": [
+    "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ua-suspilnekulturaua",
+   "ad": "Suspilne. Kultura",
+   "alt": "culture",
+   "ulke": "ua",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/hHMJV8e.png",
+   "iptv": [
+    "SuspilneKultura.ua"
+   ],
+   "url": [
+    "http://stream.mcquack.net/435/index.m3u8"
+   ]
+  },
+  {
+   "id": "ua-1plus1marafonua",
+   "ad": "1+1 Marafon",
+   "alt": "general",
+   "ulke": "ua",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/smQKa2G.png",
+   "iptv": [
+    "1Plus1Marafon.ua"
+   ],
+   "url": [
+    "https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ua-dniprotvua",
+   "ad": "Dnipro TV",
+   "alt": "general",
+   "ulke": "ua",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/mbPTVh1.png",
+   "iptv": [
+    "DniproTV.ua"
+   ],
+   "url": [
+    "http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8"
+   ]
+  }
+ ]
+}

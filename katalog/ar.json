@@ -1,0 +1,175 @@
+{
+ "ulke": "ar",
+ "ad": "Arjantin",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "ar-a24ar",
+   "ad": "A24",
+   "alt": "news",
+   "ulke": "ar",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/LnXQkIU.png",
+   "iptv": [
+    "A24.ar"
+   ],
+   "url": [
+    "http://138.59.227.20:8000/play/a05u/index.m3u8"
+   ]
+  },
+  {
+   "id": "ar-canal26ar",
+   "ad": "Canal 26",
+   "alt": "news",
+   "ulke": "ar",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png",
+   "iptv": [
+    "Canal26.ar"
+   ],
+   "url": [
+    "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
+   ]
+  },
+  {
+   "id": "ar-tnar",
+   "ad": "TN",
+   "alt": "news",
+   "ulke": "ar",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/vFwPhPS.png",
+   "iptv": [
+    "TN.ar"
+   ],
+   "url": [
+    "http://158.172.155.130:8000/play/a0dp/index.m3u8"
+   ]
+  },
+  {
+   "id": "ar-vivetvar",
+   "ad": "VIVE TV",
+   "alt": "news",
+   "ulke": "ar",
+   "kalite": "FHD",
+   "logo": "https://raw.githubusercontent.com/vivetvargentina/vive-tv/main/Logo%20512x512-04.png",
+   "iptv": [
+    "VIVETV.ar"
+   ],
+   "url": [
+    "https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8"
+   ]
+  },
+  {
+   "id": "ar-catamarcatvar",
+   "ad": "Catamarca TV",
+   "alt": "culture, news",
+   "ulke": "ar",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/CEuPoqG.png",
+   "iptv": [
+    "CatamarcaTV.ar"
+   ],
+   "url": [
+    "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
+   ]
+  },
+  {
+   "id": "ar-encuentroar",
+   "ad": "Encuentro",
+   "alt": "culture",
+   "ulke": "ar",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/uBBZR1X.png",
+   "iptv": [
+    "Encuentro.ar"
+   ],
+   "url": [
+    "http://138.59.227.20:8000/play/a05s/index.m3u8"
+   ]
+  },
+  {
+   "id": "ar-airedesantafear",
+   "ad": "Aire de Santa Fe",
+   "alt": "general",
+   "ulke": "ar",
+   "kalite": "FHD",
+   "logo": "https://files.catbox.moe/9tm8wx.png",
+   "iptv": [
+    "AiredeSantaFe.ar"
+   ],
+   "url": [
+    "https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8"
+   ]
+  },
+  {
+   "id": "ar-canal12venadotuertoar",
+   "ad": "Canal 12 Venado Tuerto",
+   "alt": "general",
+   "ulke": "ar",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/b93YC0V.jpeg",
+   "iptv": [
+    "Canal12VenadoTuerto.ar"
+   ],
+   "url": [
+    "https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8"
+   ]
+  },
+  {
+   "id": "ar-canal7neuquenar",
+   "ad": "Canal 7 Neuquen",
+   "alt": "general",
+   "ulke": "ar",
+   "kalite": "HD",
+   "logo": "https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png",
+   "iptv": [
+    "Canal7Neuquen.ar"
+   ],
+   "url": [
+    "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ar-elnuevear",
+   "ad": "El Nueve",
+   "alt": "general",
+   "ulke": "ar",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/cJHP7bU.png",
+   "iptv": [
+    "ElNueve.ar"
+   ],
+   "url": [
+    "http://15.204.246.24:8080/elnueveHD/index.m3u8"
+   ]
+  },
+  {
+   "id": "ar-nettvar",
+   "ad": "NET TV",
+   "alt": "general",
+   "ulke": "ar",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/IhJ0BjF.png",
+   "iptv": [
+    "NETTV.ar"
+   ],
+   "url": [
+    "http://45.226.205.96:48000/play/a09p/index.m3u8"
+   ]
+  },
+  {
+   "id": "ar-radioupar",
+   "ad": "Radio UP",
+   "alt": "general",
+   "ulke": "ar",
+   "kalite": "FHD",
+   "logo": "https://radioup.com.ar/wp-content/uploads/2025/06/logo-radioup-footer.png",
+   "iptv": [
+    "RadioUP.ar"
+   ],
+   "url": [
+    "https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8"
+   ]
+  }
+ ]
+}

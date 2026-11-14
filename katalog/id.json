@@ -1,0 +1,175 @@
+{
+ "ulke": "id",
+ "ad": "Endonezya",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "id-theindonesiachannelid",
+   "ad": "The Indonesia Channel",
+   "alt": "culture, education",
+   "ulke": "id",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/jAAPgpV.png",
+   "iptv": [
+    "TheIndonesiaChannel.id"
+   ],
+   "url": [
+    "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8"
+   ]
+  },
+  {
+   "id": "id-saliratvid",
+   "ad": "Salira TV",
+   "alt": "culture, lifestyle",
+   "ulke": "id",
+   "kalite": "HD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png",
+   "iptv": [
+    "SaliraTV.id"
+   ],
+   "url": [
+    "https://live.salira.tv/p/3870/hybrid/play.m3u8"
+   ]
+  },
+  {
+   "id": "id-magnachannelid",
+   "ad": "Magna Channel",
+   "alt": "general",
+   "ulke": "id",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/tfJo0SO.png",
+   "iptv": [
+    "MagnaChannel.id"
+   ],
+   "url": [
+    "http://202.150.172.59/MagnaChannel/index.m3u8"
+   ]
+  },
+  {
+   "id": "id-nusantaratvid",
+   "ad": "Nusantara TV",
+   "alt": "general",
+   "ulke": "id",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/viun5hj.png",
+   "iptv": [
+    "NusantaraTV.id"
+   ],
+   "url": [
+    "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "id-tvriid",
+   "ad": "TVRI",
+   "alt": "general",
+   "ulke": "id",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
+   "iptv": [
+    "TVRI.id"
+   ],
+   "url": [
+    "http://202.150.172.59/TVRI/index.m3u8"
+   ]
+  },
+  {
+   "id": "id-balikpapantvid",
+   "ad": "Balikpapan TV",
+   "alt": "general",
+   "ulke": "id",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/P3whqna.png",
+   "iptv": [
+    "BalikpapanTV.id"
+   ],
+   "url": [
+    "http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "id-dhohotvid",
+   "ad": "Dhoho TV",
+   "alt": "general",
+   "ulke": "id",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/4Khyyfh.png",
+   "iptv": [
+    "DhohoTV.id"
+   ],
+   "url": [
+    "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "id-jtvid",
+   "ad": "JTV",
+   "alt": "general",
+   "ulke": "id",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/mIDWIQk.png",
+   "iptv": [
+    "JTV.id"
+   ],
+   "url": [
+    "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "id-jawapostvid",
+   "ad": "Jawa Pos TV",
+   "alt": "general",
+   "ulke": "id",
+   "kalite": "HD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png",
+   "iptv": [
+    "JawaPosTV.id"
+   ],
+   "url": [
+    "http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "id-kawanuatvid",
+   "ad": "Kawanua TV",
+   "alt": "general",
+   "ulke": "id",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/xFaoLIX.png",
+   "iptv": [
+    "KawanuaTV.id"
+   ],
+   "url": [
+    "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "id-ficomchannelid",
+   "ad": "Ficom Channel",
+   "alt": "entertainment",
+   "ulke": "id",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/KMEf0Cc.png",
+   "iptv": [
+    "FicomChannel.id"
+   ],
+   "url": [
+    "https://v3.siar.us/ficomchannel/live/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "id-vtvid",
+   "ad": "VTV",
+   "alt": "kids",
+   "ulke": "id",
+   "kalite": "FHD",
+   "logo": "https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png",
+   "iptv": [
+    "VTV.id"
+   ],
+   "url": [
+    "http://202.150.172.59/VTVHD/index.m3u8"
+   ]
+  }
+ ]
+}

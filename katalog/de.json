@@ -1,0 +1,175 @@
+{
+ "ulke": "de",
+ "ad": "Almanya",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "de-dwde",
+   "ad": "DW",
+   "alt": "news",
+   "ulke": "de",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/MNKkgfa.png",
+   "iptv": [
+    "DW.de"
+   ],
+   "url": [
+    "https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "de-adventureearthde",
+   "ad": "Adventure Earth",
+   "alt": "documentary",
+   "ulke": "de",
+   "kalite": "FHD",
+   "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png",
+   "iptv": [
+    "AdventureEarth.de"
+   ],
+   "url": [
+    "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "de-autentichistoryde",
+   "ad": "Autentic History",
+   "alt": "documentary",
+   "ulke": "de",
+   "kalite": "FHD",
+   "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png",
+   "iptv": [
+    "AutenticHistory.de"
+   ],
+   "url": [
+    "https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "de-dokusatde",
+   "ad": "Dokusat",
+   "alt": "documentary",
+   "ulke": "de",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/GadfTwF.png",
+   "iptv": [
+    "Dokusat.de"
+   ],
+   "url": [
+    "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "de-terramaterwildde",
+   "ad": "Terra Mater WILD",
+   "alt": "documentary",
+   "ulke": "de",
+   "kalite": "FHD",
+   "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png",
+   "iptv": [
+    "TerraMaterWILD.de"
+   ],
+   "url": [
+    "https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "de-kabeleinsdokude",
+   "ad": "kabel eins Doku",
+   "alt": "documentary",
+   "ulke": "de",
+   "kalite": "SD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png",
+   "iptv": [
+    "kabeleinsDoku.de"
+   ],
+   "url": [
+    "https://s6.hopslan.com/dokuX/index.m3u8"
+   ]
+  },
+  {
+   "id": "de-kulturmdde",
+   "ad": "KulturMD",
+   "alt": "culture",
+   "ulke": "de",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/io7cJ1Z.png",
+   "iptv": [
+    "KulturMD.de"
+   ],
+   "url": [
+    "http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "de-allgautvde",
+   "ad": "Allgau TV",
+   "alt": "general",
+   "ulke": "de",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/960px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png",
+   "iptv": [
+    "AllgauTV.de"
+   ],
+   "url": [
+    "https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "de-augsburgtvde",
+   "ad": "Augsburg TV",
+   "alt": "general",
+   "ulke": "de",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/27AKMUL.png",
+   "iptv": [
+    "AugsburgTV.de"
+   ],
+   "url": [
+    "https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "de-daserstede",
+   "ad": "Das Erste",
+   "alt": "general",
+   "ulke": "de",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/960px-ARD_Dachmarke_2014.svg.png",
+   "iptv": [
+    "DasErste.de"
+   ],
+   "url": [
+    "https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8"
+   ]
+  },
+  {
+   "id": "de-filstalwellede",
+   "ad": "Filstalwelle",
+   "alt": "general",
+   "ulke": "de",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/19iKLvf.png",
+   "iptv": [
+    "Filstalwelle.de"
+   ],
+   "url": [
+    "https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "de-mdf1de",
+   "ad": "MDF.1",
+   "alt": "general",
+   "ulke": "de",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/IFGXK6u.png",
+   "iptv": [
+    "MDF1.de"
+   ],
+   "url": [
+    "http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8"
+   ]
+  }
+ ]
+}

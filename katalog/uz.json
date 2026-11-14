@@ -1,0 +1,175 @@
+{
+ "ulke": "uz",
+ "ad": "Özbekistan",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "uz-ozbekiston24uz",
+   "ad": "O'zbekiston 24",
+   "alt": "news",
+   "ulke": "uz",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/VRFhKbw.png",
+   "iptv": [
+    "Ozbekiston24.uz"
+   ],
+   "url": [
+    "https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "uz-uzreporttvuz",
+   "ad": "UzReport TV",
+   "alt": "news",
+   "ulke": "uz",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/Bch2RHc.jpg",
+   "iptv": [
+    "UzReportTV.uz"
+   ],
+   "url": [
+    "https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "uz-ozbekistontarixiuz",
+   "ad": "O'zbekiston Tarixi",
+   "alt": "documentary",
+   "ulke": "uz",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/iTTd3Ir.png",
+   "iptv": [
+    "OzbekistonTarixi.uz"
+   ],
+   "url": [
+    "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "uz-dunyoboylabuz",
+   "ad": "Dunyo bo'ylab",
+   "alt": "general",
+   "ulke": "uz",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/KArB5U6.png",
+   "iptv": [
+    "Dunyoboylab.uz"
+   ],
+   "url": [
+    "https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "uz-milliyuz",
+   "ad": "Milliy",
+   "alt": "general",
+   "ulke": "uz",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/v4FBm26.png",
+   "iptv": [
+    "Milliy.uz"
+   ],
+   "url": [
+    "https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "uz-yoshlaruz",
+   "ad": "Yoshlar",
+   "alt": "general",
+   "ulke": "uz",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/s4xfUSx.png",
+   "iptv": [
+    "Yoshlar.uz"
+   ],
+   "url": [
+    "https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "uz-qaraqalpaqstanuz",
+   "ad": "Qaraqalpaqstan",
+   "alt": "general",
+   "ulke": "uz",
+   "kalite": "SD",
+   "logo": "https://i.imgur.com/G3qrUJh.png",
+   "iptv": [
+    "Qaraqalpaqstan.uz"
+   ],
+   "url": [
+    "https://stream8.cinerama.uz/1467/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "uz-kinoteatruz",
+   "ad": "Kinoteatr",
+   "alt": "movies",
+   "ulke": "uz",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/emH1BgC.png",
+   "iptv": [
+    "Kinoteatr.uz"
+   ],
+   "url": [
+    "https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "uz-sevimlitvuz",
+   "ad": "Sevimli TV",
+   "alt": "family",
+   "ulke": "uz",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/iMwzRlr.png",
+   "iptv": [
+    "SevimliTV.uz"
+   ],
+   "url": [
+    "https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "uz-dasturxontvuz",
+   "ad": "Dasturxon TV",
+   "alt": "general",
+   "ulke": "uz",
+   "kalite": "SD",
+   "logo": "https://i.imgur.com/APM2ej5.jpeg",
+   "iptv": [
+    "DasturxonTV.uz"
+   ],
+   "url": [
+    "https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "uz-madaniyatvamarifatuz",
+   "ad": "Madaniyat va ma'rifat",
+   "alt": "general",
+   "ulke": "uz",
+   "kalite": "SD",
+   "logo": "https://i.imgur.com/eeNLXCP.png",
+   "iptv": [
+    "Madaniyatvamarifat.uz"
+   ],
+   "url": [
+    "https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "uz-navouz",
+   "ad": "Navo",
+   "alt": "general",
+   "ulke": "uz",
+   "kalite": "SD",
+   "logo": "https://i.imgur.com/7dZ64y9.png",
+   "iptv": [
+    "Navo.uz"
+   ],
+   "url": [
+    "https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8"
+   ]
+  }
+ ]
+}

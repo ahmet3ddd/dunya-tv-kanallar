@@ -1,0 +1,105 @@
+{
+ "ulke": "fi",
+ "ad": "Finlandiya",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "fi-mtv3fi",
+   "ad": "MTV3",
+   "alt": "general",
+   "ulke": "fi",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/C5rQbBM.png",
+   "iptv": [
+    "MTV3.fi"
+   ],
+   "url": [
+    "https://live-fi.tvkaista.net/mtv3/live.m3u8"
+   ]
+  },
+  {
+   "id": "fi-nelonenfi",
+   "ad": "Nelonen",
+   "alt": "general",
+   "ulke": "fi",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/BFbCyfY.png",
+   "iptv": [
+    "Nelonen.fi"
+   ],
+   "url": [
+    "https://live-fi.tvkaista.net/nelonen/live.m3u8"
+   ]
+  },
+  {
+   "id": "fi-onnitvfi",
+   "ad": "Onni TV",
+   "alt": "general",
+   "ulke": "fi",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/Vba4jUk.png",
+   "iptv": [
+    "OnniTV.fi"
+   ],
+   "url": [
+    "https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "fi-jimfi",
+   "ad": "Jim",
+   "alt": "entertainment",
+   "ulke": "fi",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/PkMgY0K.png",
+   "iptv": [
+    "Jim.fi"
+   ],
+   "url": [
+    "https://live-fi.tvkaista.net/jim/live.m3u8?hd=true"
+   ]
+  },
+  {
+   "id": "fi-livfi",
+   "ad": "Liv",
+   "alt": "entertainment",
+   "ulke": "fi",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/k6NsXBj.png",
+   "iptv": [
+    "Liv.fi"
+   ],
+   "url": [
+    "https://live-fi.tvkaista.net/liv/live.m3u8?hd=true"
+   ]
+  },
+  {
+   "id": "fi-jrtvjarviradiofi",
+   "ad": "JRTV Jarviradio",
+   "alt": "music",
+   "ulke": "fi",
+   "kalite": "FHD",
+   "logo": "https://jarviradio.fi/jrtv2/wp-content/uploads/2022/01/jrtv1.jpg",
+   "iptv": [
+    "JRTVJarviradio.fi"
+   ],
+   "url": [
+    "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8"
+   ]
+  },
+  {
+   "id": "fi-navahangtvfi",
+   "ad": "Navahang TV",
+   "alt": "music",
+   "ulke": "fi",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/YteKXJy.png",
+   "iptv": [
+    "NavahangTV.fi"
+   ],
+   "url": [
+    "https://hls.navahang.live/hls/stream.m3u8"
+   ]
+  }
+ ]
+}

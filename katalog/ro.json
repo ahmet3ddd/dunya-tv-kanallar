@@ -1,0 +1,175 @@
+{
+ "ulke": "ro",
+ "ad": "Romanya",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "ro-tvrinforo",
+   "ad": "TVR Info",
+   "alt": "news",
+   "ulke": "ro",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/7oE7ThR.png",
+   "iptv": [
+    "TVRInfo.ro"
+   ],
+   "url": [
+    "https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ro-antena3cnnro",
+   "ad": "Antena 3 CNN",
+   "alt": "news",
+   "ulke": "ro",
+   "kalite": "FHD",
+   "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",
+   "iptv": [
+    "Antena3CNN.ro"
+   ],
+   "url": [
+    "https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8"
+   ]
+  },
+  {
+   "id": "ro-dottotvro",
+   "ad": "Dotto TV",
+   "alt": "news",
+   "ulke": "ro",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/pfs882Z.png",
+   "iptv": [
+    "DottoTV.ro"
+   ],
+   "url": [
+    "https://live.dottotv.ro/index.m3u8"
+   ]
+  },
+  {
+   "id": "ro-alephnewsro",
+   "ad": "Aleph News",
+   "alt": "news",
+   "ulke": "ro",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/qPRQZMI.png",
+   "iptv": [
+    "AlephNews.ro"
+   ],
+   "url": [
+    "https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ro-digi24ro",
+   "ad": "Digi 24",
+   "alt": "news",
+   "ulke": "ro",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/qmRnD0M.png",
+   "iptv": [
+    "Digi24.ro"
+   ],
+   "url": [
+    "https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8"
+   ]
+  },
+  {
+   "id": "ro-tvrculturalro",
+   "ad": "TVR Cultural",
+   "alt": "culture",
+   "ulke": "ro",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/U9i70C9.png",
+   "iptv": [
+    "TVRCultural.ro"
+   ],
+   "url": [
+    "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ro-antena1ro",
+   "ad": "Antena 1",
+   "alt": "general",
+   "ulke": "ro",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/EPmwuuv.png",
+   "iptv": [
+    "Antena1.ro"
+   ],
+   "url": [
+    "https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8"
+   ]
+  },
+  {
+   "id": "ro-tvr1ro",
+   "ad": "TVR 1",
+   "alt": "general",
+   "ulke": "ro",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/CcUX1gB.png",
+   "iptv": [
+    "TVR1.ro"
+   ],
+   "url": [
+    "https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ro-tvr2ro",
+   "ad": "TVR 2",
+   "alt": "general",
+   "ulke": "ro",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/mKouHIZ.png",
+   "iptv": [
+    "TVR2.ro"
+   ],
+   "url": [
+    "https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ro-tvr3ro",
+   "ad": "TVR 3",
+   "alt": "general",
+   "ulke": "ro",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/yHCuTap.png",
+   "iptv": [
+    "TVR3.ro"
+   ],
+   "url": [
+    "https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ro-tvrclujro",
+   "ad": "TVR Cluj",
+   "alt": "general",
+   "ulke": "ro",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/RkDra93.png",
+   "iptv": [
+    "TVRCluj.ro"
+   ],
+   "url": [
+    "https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "ro-tvrcraiovaro",
+   "ad": "TVR Craiova",
+   "alt": "general",
+   "ulke": "ro",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/vxWbQiy.png",
+   "iptv": [
+    "TVRCraiova.ro"
+   ],
+   "url": [
+    "https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8"
+   ]
+  }
+ ]
+}

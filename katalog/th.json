@@ -1,0 +1,175 @@
+{
+ "ulke": "th",
+ "ad": "Tayland",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "th-13siamthaith",
+   "ad": "13 Siam Thai",
+   "alt": "news",
+   "ulke": "th",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/FvEp1S2.png",
+   "iptv": [
+    "13SiamThai.th"
+   ],
+   "url": [
+    "https://live.x2.co.th/live/13livetv-th.m3u8"
+   ]
+  },
+  {
+   "id": "th-topnewsth",
+   "ad": "Top News",
+   "alt": "news",
+   "ulke": "th",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/tRFnV9M.png",
+   "iptv": [
+    "TopNews.th"
+   ],
+   "url": [
+    "https://live.topnews.co.th/hls/topnews_a_720.m3u8"
+   ]
+  },
+  {
+   "id": "th-nbt2hdth",
+   "ad": "NBT 2 HD",
+   "alt": "general",
+   "ulke": "th",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/IJh6SHb.png",
+   "iptv": [
+    "NBT2HD.th"
+   ],
+   "url": [
+    "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "th-nbtworldth",
+   "ad": "NBT World",
+   "alt": "general",
+   "ulke": "th",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/GUQhLeg.png",
+   "iptv": [
+    "NBTWorld.th"
+   ],
+   "url": [
+    "https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "th-dltv1th",
+   "ad": "DLTV 1",
+   "alt": "education",
+   "ulke": "th",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/nLzdGeX.png",
+   "iptv": [
+    "DLTV1.th"
+   ],
+   "url": [
+    "https://cdn-live.dltv.ac.th/dltv01.m3u8"
+   ]
+  },
+  {
+   "id": "th-dltv10th",
+   "ad": "DLTV 10",
+   "alt": "education",
+   "ulke": "th",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/TgN81Zr.png",
+   "iptv": [
+    "DLTV10.th"
+   ],
+   "url": [
+    "https://cdn-live.dltv.ac.th/dltv10.m3u8"
+   ]
+  },
+  {
+   "id": "th-dltv11th",
+   "ad": "DLTV 11",
+   "alt": "education",
+   "ulke": "th",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/hFk2b5s.png",
+   "iptv": [
+    "DLTV11.th"
+   ],
+   "url": [
+    "https://cdn-live.dltv.ac.th/dltv11.m3u8"
+   ]
+  },
+  {
+   "id": "th-dltv12th",
+   "ad": "DLTV 12",
+   "alt": "education",
+   "ulke": "th",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/ITt6lY7.png",
+   "iptv": [
+    "DLTV12.th"
+   ],
+   "url": [
+    "https://cdn-live.dltv.ac.th/dltv12.m3u8"
+   ]
+  },
+  {
+   "id": "th-dltv13th",
+   "ad": "DLTV 13",
+   "alt": "education",
+   "ulke": "th",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/asB5w3v.png",
+   "iptv": [
+    "DLTV13.th"
+   ],
+   "url": [
+    "https://cdn-live.dltv.ac.th/dltv13.m3u8"
+   ]
+  },
+  {
+   "id": "th-dltv14th",
+   "ad": "DLTV 14",
+   "alt": "education",
+   "ulke": "th",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/HOjZRNS.png",
+   "iptv": [
+    "DLTV14.th"
+   ],
+   "url": [
+    "https://cdn-live.dltv.ac.th/dltv14.m3u8"
+   ]
+  },
+  {
+   "id": "th-dltv15th",
+   "ad": "DLTV 15",
+   "alt": "education",
+   "ulke": "th",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/onJi2b6.png",
+   "iptv": [
+    "DLTV15.th"
+   ],
+   "url": [
+    "https://cdn-live.dltv.ac.th/dltv15.m3u8"
+   ]
+  },
+  {
+   "id": "th-dltv2th",
+   "ad": "DLTV 2",
+   "alt": "education",
+   "ulke": "th",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/lDBSTfE.png",
+   "iptv": [
+    "DLTV2.th"
+   ],
+   "url": [
+    "https://cdn-live.dltv.ac.th/dltv02.m3u8"
+   ]
+  }
+ ]
+}
