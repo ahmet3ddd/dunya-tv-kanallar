@@ -74,17 +74,17 @@
    ]
   },
   {
-   "id": "sa-asharqdiscoverysa",
-   "ad": "Asharq Discovery",
-   "alt": "documentary, education",
+   "id": "sa-asharqdocumentarysa",
+   "ad": "Asharq Documentary",
+   "alt": "documentary",
    "ulke": "sa",
    "kalite": "FHD",
-   "logo": "https://i.imgur.com/Czxi7yk.png",
+   "logo": "https://i.imgur.com/v6VsFEt.png",
    "iptv": [
-    "AsharqDiscovery.sa"
+    "AsharqDocumentary.sa"
    ],
    "url": [
-    "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
+    "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8"
    ]
   },
   {

@@ -46,90 +46,6 @@
    ]
   },
   {
-   "id": "kz-balapaninternationalkz",
-   "ad": "Balapan International",
-   "alt": "kids",
-   "ulke": "kz",
-   "kalite": "FHD",
-   "logo": "https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png",
-   "iptv": [
-    "BalapanInternational.kz"
-   ],
-   "url": [
-    "https://live-3.otcnet.ru/Balapan/index.m3u8"
-   ]
-  },
-  {
-   "id": "kz-nickelodeonciskz",
-   "ad": "Nickelodeon CIS",
-   "alt": "kids",
-   "ulke": "kz",
-   "kalite": "FHD",
-   "logo": "https://commons.wikimedia.org/wiki/File:Short_Nick_2023.png",
-   "iptv": [
-    "NickelodeonCIS.kz"
-   ],
-   "url": [
-    "https://stream8.cinerama.uz/1500/playlist.m3u8"
-   ]
-  },
-  {
-   "id": "kz-astanatvkz",
-   "ad": "Astana TV",
-   "alt": "general",
-   "ulke": "kz",
-   "kalite": "SD",
-   "logo": "https://i.imgur.com/j4HfVK0.png",
-   "iptv": [
-    "AstanaTV.kz"
-   ],
-   "url": [
-    "http://stream.mcquack.net/28/index.m3u8"
-   ]
-  },
-  {
-   "id": "kz-channel7kz",
-   "ad": "Channel 7",
-   "alt": "general",
-   "ulke": "kz",
-   "kalite": "SD",
-   "logo": "https://i.imgur.com/LebKU09.png",
-   "iptv": [
-    "Channel7.kz"
-   ],
-   "url": [
-    "http://stream.mcquack.net/27/index.m3u8"
-   ]
-  },
-  {
-   "id": "kz-ktkkz",
-   "ad": "KTK",
-   "alt": "general",
-   "ulke": "kz",
-   "kalite": "SD",
-   "logo": "https://i.imgur.com/BurrNTo.png",
-   "iptv": [
-    "KTK.kz"
-   ],
-   "url": [
-    "http://stream.mcquack.net/26/index.m3u8"
-   ]
-  },
-  {
-   "id": "kz-ntkkz",
-   "ad": "NTK",
-   "alt": "general",
-   "ulke": "kz",
-   "kalite": "SD",
-   "logo": "https://i.imgur.com/hHSCH4L.png",
-   "iptv": [
-    "NTK.kz"
-   ],
-   "url": [
-    "http://stream.mcquack.net/389/index.m3u8"
-   ]
-  },
-  {
    "id": "kz-rikatvkz",
    "ad": "Rika TV",
    "alt": "general",
@@ -141,6 +57,20 @@
    ],
    "url": [
     "https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "kz-balapankz",
+   "ad": "Balapan",
+   "alt": "kids",
+   "ulke": "kz",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/2o5T0gi.png",
+   "iptv": [
+    "Balapan.kz"
+   ],
+   "url": [
+    "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8"
    ]
   }
  ]

@@ -31,7 +31,7 @@ H = {'User-Agent': 'Mozilla/5.0 (SMART-TV; Linux; Tizen 5.0) AppleWebKit/537.36 
 BUGUN = dt.date.today()
 
 
-def al(u, n=None, t=10):
+def al(u, n=None, t=8):
     r = urllib.request.urlopen(urllib.request.Request(u, headers=H), timeout=t)
     return r.read(n) if n else r.read()
 
@@ -50,15 +50,21 @@ def dene(u):
         if res:
             s2 = [l for l in al(v, 300000).decode('utf-8', 'ignore').splitlines() if l.strip() and not l.startswith('#')]
             v = urljoin(v, s2[-1].strip())
-        al(v, 40000, 15)
+        al(v, 40000, 10)
         return max(res) if res else 0
     except Exception:
         return None
 
 
+_ONBELLEK = {}
+
+
 def coklu_dene(urller):
-    with cf.ThreadPoolExecutor(24) as ex:
-        return dict(zip(urller, ex.map(dene, urller)))
+    yeni = [u for u in dict.fromkeys(urller) if u not in _ONBELLEK]
+    with cf.ThreadPoolExecutor(64) as ex:
+        for u, y in zip(yeni, ex.map(dene, yeni)):
+            _ONBELLEK[u] = y
+    return {u: _ONBELLEK.get(u) for u in urller}
 
 
 def kalite_etiketi(yuk):
@@ -69,7 +75,7 @@ def kalite_etiketi(yuk):
 
 # ---------- Ek ülke kataloğu (TV'de "Ülke ekle" sekmesi) ----------
 EK_ULKELER = {
-    'TR': 'Türkiye', 'DE': 'Almanya', 'GB': 'İngiltere', 'US': 'ABD', 'IT': 'İtalya', 'ES': 'İspanya',
+    'TR': 'Türkiye', 'DE': 'Almanya', 'UK': 'İngiltere', 'US': 'ABD', 'IT': 'İtalya', 'ES': 'İspanya',
     'KR': 'Güney Kore', 'IN': 'Hindistan', 'QA': 'Katar', 'AE': 'BAE', 'SA': 'Suudi Arabistan', 'EG': 'Mısır',
     'GR': 'Yunanistan', 'NL': 'Hollanda', 'PT': 'Portekiz', 'BR': 'Brezilya', 'AR': 'Arjantin', 'MX': 'Meksika',
     'CA': 'Kanada', 'AU': 'Avustralya', 'PL': 'Polonya', 'UA': 'Ukrayna', 'AZ': 'Azerbaycan', 'KZ': 'Kazakistan',
@@ -79,17 +85,66 @@ EK_ULKELER = {
     'CZ': 'Çekya', 'FI': 'Finlandiya', 'DK': 'Danimarka', 'IE': 'İrlanda', 'MA': 'Fas', 'DZ': 'Cezayir',
 }
 KATALOG_ADET = 12
+
+
+def ulke_kodu(cc):
+    # iptv-org Birleşik Krallık için 'UK' kullanıyor; bayrak/standart kod 'gb'
+    return {'UK': 'gb'}.get(cc, cc.lower())
 ONCELIK = ['news', 'documentary', 'culture', 'general', 'travel', 'science', 'education', 'entertainment',
            'kids', 'music', 'movies', 'series', 'lifestyle', 'cooking', 'animation', 'classic', 'family']
 
 
-def katalog(akis_kanal, kanal_bilgi, logolar):
+KAT_SIRA = ['news', 'documentary', 'general', 'culture', 'entertainment', 'movies', 'series', 'music', 'kids',
+            'animation', 'sports', 'travel', 'science', 'education', 'lifestyle', 'cooking', 'outdoor', 'auto',
+            'business', 'comedy', 'family', 'classic', 'weather', 'relax', 'legislative', 'religious', 'shop']
+
+
+def tum_listeler(akis_kanal, kanal_bilgi, logolar):
+    """Her ülke için çalışan TÜM kanalları tum/<kod>.json'a yazar (TV'de 'Tüm kanallar' seçicisi)."""
+    ulkeler = dict(ULKELER)
+    ulkeler.update({cc: ulke_kodu(cc) for cc in EK_ULKELER})
+    adaylar = {}
+    for c in kanal_bilgi.values():
+        if c.get('country') not in ulkeler or c.get('is_nsfw') or c.get('closed') or 'xxx' in (c.get('categories') or []):
+            continue
+        for s_ in akis_kanal.get(c['id'], []):
+            lab = s_.get('labels') or []
+            if 'Geo-blocked' in lab or s_.get('user_agent') or s_.get('referrer'):
+                continue
+            q = int(re.sub(r'\D', '', s_.get('quality') or '0') or 0)
+            adaylar.setdefault(c['id'], []).append((q, 'Not 24/7' in lab, s_['url']))
+    sonuc = coklu_dene([u for v in adaylar.values() for _, _, u in v])
+    tdir = KOK / 'tum'
+    tdir.mkdir(exist_ok=True)
+    sayilar = {}
+    for cc, kod in ulkeler.items():
+        out = []
+        for cid, akis in adaylar.items():
+            c = kanal_bilgi[cid]
+            if c['country'] != cc:
+                continue
+            calisan = sorted(((sonuc[u] or q, not n247, u) for q, n247, u in akis if sonuc.get(u) is not None), reverse=True)
+            if not calisan:
+                continue
+            kat = c.get('categories') or ['general']
+            out.append({'id': kod + '-' + re.sub(r'[^a-z0-9]', '', cid.lower())[:24], 'ad': c['name'],
+                        'kat': kat[0], 'kalite': kalite_etiketi(calisan[0][0] or 480) if calisan[0][0] else '',
+                        'logo': logolar.get(cid, ''), 'iptv': [cid], 'url': [u for _, _, u in calisan[:3]]})
+        out.sort(key=lambda k: (KAT_SIRA.index(k['kat']) if k['kat'] in KAT_SIRA else 99, k['ad'].lower()))
+        (tdir / f'{kod}.json').write_text(json.dumps({'ulke': kod, 'guncelleme': BUGUN.isoformat(), 'kanallar': out},
+                                                     ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
+        sayilar[kod] = len(out)
+    print('Tüm kanallar:', ', '.join(f'{k}:{v}' for k, v in sayilar.items()))
+    return sayilar
+
+
+def katalog(akis_kanal, kanal_bilgi, logolar, sayilar=None):
     kdir = KOK / 'katalog'
     kdir.mkdir(exist_ok=True)
     ozet = []
     gorevler = {}
     for cc in EK_ULKELER:
-        kod = cc.lower()
+        kod = ulke_kodu(cc)
         eski = {}
         f = kdir / f'{kod}.json'
         if f.exists():
@@ -115,7 +170,7 @@ def katalog(akis_kanal, kanal_bilgi, logolar):
         gorevler[cc] = secim
     tum = coklu_dene([a[5] for v in gorevler.values() for a in v])
     for cc, secim in gorevler.items():
-        kod = cc.lower(); kanallar = []
+        kod = ulke_kodu(cc); kanallar = []
         for a in secim:
             y = tum.get(a[5])
             if y is None or len(kanallar) >= KATALOG_ADET:
@@ -128,9 +183,10 @@ def katalog(akis_kanal, kanal_bilgi, logolar):
         if len(kanallar) >= 4:
             (kdir / f'{kod}.json').write_text(json.dumps({'ulke': kod, 'ad': EK_ULKELER[cc], 'guncelleme': BUGUN.isoformat(),
                                                          'kanallar': kanallar}, ensure_ascii=False, indent=1), encoding='utf-8')
-            ozet.append({'kod': kod, 'ad': EK_ULKELER[cc], 'adet': len(kanallar)})
+            ozet.append({'kod': kod, 'ad': EK_ULKELER[cc], 'adet': len(kanallar), 'tum': (sayilar or {}).get(kod, 0)})
     ozet.sort(key=lambda x: x['ad'])
-    (KOK / 'katalog.json').write_text(json.dumps({'guncelleme': BUGUN.isoformat(), 'ulkeler': ozet},
+    (KOK / 'katalog.json').write_text(json.dumps({'guncelleme': BUGUN.isoformat(), 'ulkeler': ozet,
+                                                  'tum': sayilar or {}},
                                                  ensure_ascii=False, indent=1), encoding='utf-8')
     print(f'Katalog: {len(ozet)} ülke, {sum(o["adet"] for o in ozet)} kanal')
 
@@ -233,7 +289,8 @@ def main():
         eski = log.read_text(encoding='utf-8') if log.exists() else '# Değişiklikler\n'
         bas, _, govde = eski.partition('\n')
         log.write_text(f"{bas}\n\n## {BUGUN.isoformat()}\n{metin}\n{govde}", encoding='utf-8')
-    katalog(akis_kanal, kanal_bilgi, logolar)
+    sayilar = tum_listeler(akis_kanal, kanal_bilgi, logolar)
+    katalog(akis_kanal, kanal_bilgi, logolar, sayilar)
     print(metin or 'Değişiklik yok.')
     calismayan = [k['ad'] for k in kanallar if durum['hata'].get(k['id'])]
     if calismayan:

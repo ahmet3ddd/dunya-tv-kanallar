@@ -1,0 +1,175 @@
+{
+ "ulke": "gb",
+ "ad": "İngiltere",
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "gb-bbcnewsuk",
+   "ad": "BBC News",
+   "alt": "news",
+   "ulke": "gb",
+   "kalite": "FHD",
+   "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
+   "iptv": [
+    "BBCNews.uk"
+   ],
+   "url": [
+    "http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8"
+   ]
+  },
+  {
+   "id": "gb-cnbcukuk",
+   "ad": "CNBC UK",
+   "alt": "news, business",
+   "ulke": "gb",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg",
+   "iptv": [
+    "CNBCUK.uk"
+   ],
+   "url": [
+    "https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "gb-iraninternationaluk",
+   "ad": "Iran International",
+   "alt": "news",
+   "ulke": "gb",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/55RpaF3.png",
+   "iptv": [
+    "IranInternational.uk"
+   ],
+   "url": [
+    "https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8"
+   ]
+  },
+  {
+   "id": "gb-afghanistaninternational",
+   "ad": "Afghanistan International",
+   "alt": "news",
+   "ulke": "gb",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/r8MmFRX.png",
+   "iptv": [
+    "AfghanistanInternational.uk"
+   ],
+   "url": [
+    "https://hls.afintl.com/hls/stream.m3u8"
+   ]
+  },
+  {
+   "id": "gb-bbcearthuk",
+   "ad": "BBC Earth",
+   "alt": "documentary",
+   "ulke": "gb",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/nGSsUd4.png",
+   "iptv": [
+    "BBCEarth.uk"
+   ],
+   "url": [
+    "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "gb-historyhituk",
+   "ad": "History Hit",
+   "alt": "documentary",
+   "ulke": "gb",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/ulHoqlP.png",
+   "iptv": [
+    "HistoryHit.uk"
+   ],
+   "url": [
+    "https://lds-timeline-plex.amagi.tv/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "gb-spacelivepoweredbysenuk",
+   "ad": "Space Live powered by sen",
+   "alt": "relax, travel",
+   "ulke": "gb",
+   "kalite": "FHD",
+   "logo": "https://static.frequency.com/studio/itv/channels/1224-400x200.png",
+   "iptv": [
+    "SpaceLivepoweredbysen.uk"
+   ],
+   "url": [
+    "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "gb-wonderuk",
+   "ad": "Wonder",
+   "alt": "science",
+   "ulke": "gb",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/LquGNbh.png",
+   "iptv": [
+    "Wonder.uk"
+   ],
+   "url": [
+    "https://lds-wonder-plex.amagi.tv/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "gb-masterchefsacademytvuk",
+   "ad": "Master Chefs Academy TV",
+   "alt": "cooking, education",
+   "ulke": "gb",
+   "kalite": "HD",
+   "logo": "https://platform-iuoamc.uk/storage/tv/branding/mca-tv-official-logo.png",
+   "iptv": [
+    "MasterChefsAcademyTV.uk"
+   ],
+   "url": [
+    "https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8"
+   ]
+  },
+  {
+   "id": "gb-entchanneluk",
+   "ad": "ENT Channel",
+   "alt": "entertainment",
+   "ulke": "gb",
+   "kalite": "FHD",
+   "logo": "https://static.elektamedia.com/ch/entch.png",
+   "iptv": [
+    "ENTChannel.uk"
+   ],
+   "url": [
+    "https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8"
+   ]
+  },
+  {
+   "id": "gb-entfamilyuk",
+   "ad": "ENT Family",
+   "alt": "entertainment",
+   "ulke": "gb",
+   "kalite": "FHD",
+   "logo": "https://static.elektamedia.com/ch/entf.png",
+   "iptv": [
+    "ENTFamily.uk"
+   ],
+   "url": [
+    "https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8"
+   ]
+  },
+  {
+   "id": "gb-magnavisiontvuk",
+   "ad": "Magnavision TV",
+   "alt": "entertainment",
+   "ulke": "gb",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/mUHixbi.png",
+   "iptv": [
+    "MagnavisionTV.uk"
+   ],
+   "url": [
+    "https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8"
+   ]
+  }
+ ]
+}

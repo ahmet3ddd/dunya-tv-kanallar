@@ -12,6 +12,7 @@ permissions:
 jobs:
   guncelle:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -23,7 +24,7 @@ jobs:
         run: |
           git config user.name "dunya-tv-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add kanallar.json durum.json DEGISIKLIKLER.md katalog.json katalog 2>/dev/null || true
+          git add kanallar.json durum.json DEGISIKLIKLER.md katalog.json katalog tum 2>/dev/null || true
           if ! git diff --cached --quiet; then
             git commit -m "Haftalık kanal güncellemesi $(date +%F)"
             git push

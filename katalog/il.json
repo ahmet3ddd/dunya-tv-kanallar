@@ -116,20 +116,6 @@
    ]
   },
   {
-   "id": "il-vivapremiumil",
-   "ad": "Viva Premium",
-   "alt": "general",
-   "ulke": "il",
-   "kalite": "FHD",
-   "logo": "https://cdn.epg.one/img2/9055.png",
-   "iptv": [
-    "VivaPremium.il"
-   ],
-   "url": [
-    "http://stream.mcquack.net/43/index.m3u8"
-   ]
-  },
-  {
    "id": "il-channel13il",
    "ad": "Channel 13",
    "alt": "general",
@@ -144,20 +130,6 @@
    ]
   },
   {
-   "id": "il-kaneducationalil",
-   "ad": "Kan Educational",
-   "alt": "education",
-   "ulke": "il",
-   "kalite": "SD",
-   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png",
-   "iptv": [
-    "KanEducational.il"
-   ],
-   "url": [
-    "http://stream.mcquack.net/378/index.m3u8"
-   ]
-  },
-  {
    "id": "il-hopil",
    "ad": "Hop!",
    "alt": "kids",
@@ -169,6 +141,34 @@
    ],
    "url": [
     "http://stream.mcquack.net/44/index.m3u8"
+   ]
+  },
+  {
+   "id": "il-yamtichoniil",
+   "ad": "Yam Tichoni",
+   "alt": "series",
+   "ulke": "il",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/he/thumb/5/58/YamTichoniChannel.svg/1280px-YamTichoniChannel.svg.png",
+   "iptv": [
+    "YamTichoni.il"
+   ],
+   "url": [
+    "http://stream.mcquack.net/46/index.m3u8"
+   ]
+  },
+  {
+   "id": "il-vivapremiumil",
+   "ad": "Viva Premium",
+   "alt": "general",
+   "ulke": "il",
+   "kalite": "FHD",
+   "logo": "https://cdn.epg.one/img2/9055.png",
+   "iptv": [
+    "VivaPremium.il"
+   ],
+   "url": [
+    "http://stream.mcquack.net/43/index.m3u8"
    ]
   }
  ]
