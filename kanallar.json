@@ -1,0 +1,296 @@
+{
+ "surum": 1,
+ "guncelleme": "2026-11-14",
+ "kanallar": [
+  {
+   "id": "cctv4",
+   "ad": "CCTV-4",
+   "alt": "中文国际",
+   "ulke": "cn",
+   "kalite": "HD",
+   "logo": "https://raw.githubusercontent.com/ahmet3ddd/dunya-tv-kanallar/main/logo/cctv4.png",
+   "iptv": [
+    "CCTV4America.cn",
+    "CCTV4Europe.cn",
+    "CCTV4Asia.cn"
+   ],
+   "url": [
+    "https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8",
+    "https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8"
+   ],
+   "fav": true
+  },
+  {
+   "id": "cgtndoc",
+   "ad": "CGTN Documentary",
+   "alt": "Belgesel",
+   "ulke": "cn",
+   "kalite": "FHD",
+   "logo": "https://raw.githubusercontent.com/ahmet3ddd/dunya-tv-kanallar/main/logo/cgtndoc.png",
+   "iptv": [
+    "CGTNDocumentary.cn"
+   ],
+   "url": [
+    "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8"
+   ],
+   "fav": true
+  },
+  {
+   "id": "cgtn",
+   "ad": "CGTN",
+   "alt": "Haber (İngilizce)",
+   "ulke": "cn",
+   "kalite": "FHD",
+   "logo": "https://raw.githubusercontent.com/ahmet3ddd/dunya-tv-kanallar/main/logo/cgtn.png",
+   "iptv": [
+    "CGTN.cn"
+   ],
+   "url": [
+    "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
+   ]
+  },
+  {
+   "id": "cctv9",
+   "ad": "CCTV-9",
+   "alt": "纪录 Belgesel",
+   "ulke": "cn",
+   "kalite": "FHD",
+   "logo": "https://raw.githubusercontent.com/ahmet3ddd/dunya-tv-kanallar/main/logo/cctv9.png",
+   "iptv": [
+    "CCTV9.cn"
+   ],
+   "url": [
+    "https://xykt-fix.github.io/Y77.m3u8"
+   ]
+  },
+  {
+   "id": "zhejiang",
+   "ad": "Zhejiang Intl.",
+   "alt": "浙江国际",
+   "ulke": "cn",
+   "kalite": "FHD",
+   "logo": "https://raw.githubusercontent.com/ahmet3ddd/dunya-tv-kanallar/main/logo/zhejiang.png",
+   "iptv": [
+    "ZhejiangInternationalChannel.cn"
+   ],
+   "url": [
+    "https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8"
+   ]
+  },
+  {
+   "id": "guangdong",
+   "ad": "Guangdong TV",
+   "alt": "广东卫视",
+   "ulke": "cn",
+   "kalite": "HD",
+   "logo": "https://raw.githubusercontent.com/ahmet3ddd/dunya-tv-kanallar/main/logo/guangdong.jpg",
+   "iptv": [
+    "GuangdongSatelliteTV.cn"
+   ],
+   "url": [
+    "https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8"
+   ]
+  },
+  {
+   "id": "nhkworld",
+   "ad": "NHK World",
+   "alt": "Japan",
+   "ulke": "jp",
+   "kalite": "FHD",
+   "logo": "",
+   "iptv": [
+    "NHKWorldJapan.jp"
+   ],
+   "url": [
+    "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
+    "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"
+   ],
+   "fav": true
+  },
+  {
+   "id": "nhkpremium",
+   "ad": "NHK World Premium",
+   "alt": "Japonca",
+   "ulke": "jp",
+   "kalite": "HD",
+   "logo": "https://raw.githubusercontent.com/ahmet3ddd/dunya-tv-kanallar/main/logo/nhkpremium.png",
+   "iptv": [
+    "NHKWorldPremium.jp"
+   ],
+   "url": [
+    "https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8"
+   ]
+  },
+  {
+   "id": "weathernews",
+   "ad": "Weathernews",
+   "alt": "ウェザーニュース",
+   "ulke": "jp",
+   "kalite": "HD",
+   "logo": "https://raw.githubusercontent.com/ahmet3ddd/dunya-tv-kanallar/main/logo/weathernews.png",
+   "iptv": [
+    "Weathernews.jp"
+   ],
+   "url": [
+    "https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8"
+   ]
+  },
+  {
+   "id": "russia1",
+   "ad": "Россия 1",
+   "alt": "Rossiya 1",
+   "ulke": "ru",
+   "kalite": "FHD",
+   "logo": "https://raw.githubusercontent.com/ahmet3ddd/dunya-tv-kanallar/main/logo/russia1.png",
+   "iptv": [
+    "Russia1.ru"
+   ],
+   "url": [
+    "https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8"
+   ]
+  },
+  {
+   "id": "russia24",
+   "ad": "Россия 24",
+   "alt": "Haber",
+   "ulke": "ru",
+   "kalite": "FHD",
+   "logo": "https://raw.githubusercontent.com/ahmet3ddd/dunya-tv-kanallar/main/logo/russia24.png",
+   "iptv": [
+    "Russia24.ru"
+   ],
+   "url": [
+    "https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8"
+   ]
+  },
+  {
+   "id": "kultura",
+   "ad": "Культура",
+   "alt": "Kültür",
+   "ulke": "ru",
+   "kalite": "FHD",
+   "logo": "https://raw.githubusercontent.com/ahmet3ddd/dunya-tv-kanallar/main/logo/kultura.png",
+   "iptv": [
+    "RussiaK.ru"
+   ],
+   "url": [
+    "https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8"
+   ]
+  },
+  {
+   "id": "zvezda",
+   "ad": "Звезда",
+   "alt": "Zvezda",
+   "ulke": "ru",
+   "kalite": "FHD",
+   "logo": "https://raw.githubusercontent.com/ahmet3ddd/dunya-tv-kanallar/main/logo/zvezda.png",
+   "iptv": [
+    "Zvezda.ru"
+   ],
+   "url": [
+    "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "rtdru",
+   "ad": "RT Док",
+   "alt": "Belgesel",
+   "ulke": "ru",
+   "kalite": "FHD",
+   "logo": "https://raw.githubusercontent.com/ahmet3ddd/dunya-tv-kanallar/main/logo/rtd.png",
+   "iptv": [
+    "RTDocumentary.ru"
+   ],
+   "url": [
+    "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "euronewsru",
+   "ad": "Euronews",
+   "alt": "Русский",
+   "ulke": "ru",
+   "kalite": "HD",
+   "logo": "https://raw.githubusercontent.com/ahmet3ddd/dunya-tv-kanallar/main/logo/euronews.png",
+   "iptv": [
+    "EuronewsRussian.fr"
+   ],
+   "url": [
+    "https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8"
+   ]
+  },
+  {
+   "id": "tv5monde",
+   "ad": "TV5Monde",
+   "alt": "Europe",
+   "ulke": "fr",
+   "kalite": "FHD",
+   "logo": "https://raw.githubusercontent.com/ahmet3ddd/dunya-tv-kanallar/main/logo/tv5monde.png",
+   "iptv": [
+    "TV5MondeEurope.fr"
+   ],
+   "url": [
+    "https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8"
+   ],
+   "fav": true
+  },
+  {
+   "id": "arte",
+   "ad": "Arte",
+   "alt": "Kültür",
+   "ulke": "fr",
+   "kalite": "HD",
+   "logo": "https://raw.githubusercontent.com/ahmet3ddd/dunya-tv-kanallar/main/logo/arte.png",
+   "iptv": [
+    "arte.fr",
+    "arte.de"
+   ],
+   "url": [
+    "https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8"
+   ],
+   "fav": true
+  },
+  {
+   "id": "euronewsfr",
+   "ad": "Euronews",
+   "alt": "Français",
+   "ulke": "fr",
+   "kalite": "HD",
+   "logo": "https://raw.githubusercontent.com/ahmet3ddd/dunya-tv-kanallar/main/logo/euronews.png",
+   "iptv": [
+    "EuronewsFrench.fr"
+   ],
+   "url": [
+    "https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "cnews",
+   "ad": "CNews",
+   "alt": "Haber",
+   "ulke": "fr",
+   "kalite": "FHD",
+   "logo": "https://raw.githubusercontent.com/ahmet3ddd/dunya-tv-kanallar/main/logo/cnews.png",
+   "iptv": [
+    "CNews.fr"
+   ],
+   "url": [
+    "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8"
+   ]
+  },
+  {
+   "id": "bfm2",
+   "ad": "BFM2",
+   "alt": "Belgesel",
+   "ulke": "fr",
+   "kalite": "FHD",
+   "logo": "https://raw.githubusercontent.com/ahmet3ddd/dunya-tv-kanallar/main/logo/bfm2.jpg",
+   "iptv": [
+    "BFM2.fr"
+   ],
+   "url": [
+    "https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8"
+   ]
+  }
+ ]
+}
