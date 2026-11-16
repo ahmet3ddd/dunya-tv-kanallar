@@ -1,7 +1,7 @@
 {
  "ulke": "ch",
  "ad": "İsviçre",
- "guncelleme": "2026-11-14",
+ "guncelleme": "2026-11-16",
  "kanallar": [
   {
    "id": "ch-waterbearch",
@@ -71,34 +71,6 @@
    ],
    "url": [
     "https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8"
-   ]
-  },
-  {
-   "id": "ch-carac2ch",
-   "ad": "Carac 2",
-   "alt": "entertainment",
-   "ulke": "ch",
-   "kalite": "FHD",
-   "logo": "https://i.imgur.com/hCoIPen.png",
-   "iptv": [
-    "Carac2.ch"
-   ],
-   "url": [
-    "https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8"
-   ]
-  },
-  {
-   "id": "ch-carac3ch",
-   "ad": "Carac 3",
-   "alt": "entertainment",
-   "ulke": "ch",
-   "kalite": "FHD",
-   "logo": "https://i.imgur.com/C4e8cjt.png",
-   "iptv": [
-    "Carac3.ch"
-   ],
-   "url": [
-    "https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8"
    ]
   },
   {

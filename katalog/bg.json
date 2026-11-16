@@ -1,7 +1,7 @@
 {
  "ulke": "bg",
  "ad": "Bulgaristan",
- "guncelleme": "2026-11-14",
+ "guncelleme": "2026-11-16",
  "kanallar": [
   {
    "id": "bg-thisisbulgariahdbg",
@@ -113,6 +113,62 @@
    ],
    "url": [
     "https://streamer103.neterra.tv/tiankov-orient/live.m3u8"
+   ]
+  },
+  {
+   "id": "bg-bnt1bg",
+   "ad": "BNT 1",
+   "alt": "general",
+   "ulke": "bg",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/7JU9b5j.png",
+   "iptv": [
+    "BNT1.bg"
+   ],
+   "url": [
+    "https://shift03.isp.bg/BNT1_HD/index.m3u8"
+   ]
+  },
+  {
+   "id": "bg-bnt3bg",
+   "ad": "BNT 3",
+   "alt": "general",
+   "ulke": "bg",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/pPpSJ4u.png",
+   "iptv": [
+    "BNT3.bg"
+   ],
+   "url": [
+    "https://shift03.isp.bg/BNT3_HD/index.m3u8"
+   ]
+  },
+  {
+   "id": "bg-bnt4bg",
+   "ad": "BNT 4",
+   "alt": "general",
+   "ulke": "bg",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/Lw8b3yu.png",
+   "iptv": [
+    "BNT4.bg"
+   ],
+   "url": [
+    "https://shift03.isp.bg/BNT4_HD/index.m3u8"
+   ]
+  },
+  {
+   "id": "bg-tvzagorabg",
+   "ad": "TV Zagora",
+   "alt": "general",
+   "ulke": "bg",
+   "kalite": "SD",
+   "logo": "https://i.imgur.com/DvBboqe.png",
+   "iptv": [
+    "TVZagora.bg"
+   ],
+   "url": [
+    "http://zagoratv.ddns.net:8080/tvzagora.m3u8"
    ]
   }
  ]

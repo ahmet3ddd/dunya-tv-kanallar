@@ -1,7 +1,7 @@
 {
  "ulke": "qa",
  "ad": "Katar",
- "guncelleme": "2026-11-14",
+ "guncelleme": "2026-11-16",
  "kanallar": [
   {
    "id": "qa-alarabytvqa",
@@ -127,20 +127,6 @@
    ],
    "url": [
     "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8"
-   ]
-  },
-  {
-   "id": "qa-qatartelevisionqa",
-   "ad": "Qatar Television",
-   "alt": "general",
-   "ulke": "qa",
-   "kalite": "FHD",
-   "logo": "https://i.imgur.com/N5RB4sp.png",
-   "iptv": [
-    "QatarTelevision.qa"
-   ],
-   "url": [
-    "https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8"
    ]
   },
   {

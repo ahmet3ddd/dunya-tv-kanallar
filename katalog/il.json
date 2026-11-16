@@ -1,7 +1,7 @@
 {
  "ulke": "il",
  "ad": "İsrail",
- "guncelleme": "2026-11-14",
+ "guncelleme": "2026-11-16",
  "kanallar": [
   {
    "id": "il-channel9il",
@@ -88,20 +88,6 @@
    ]
   },
   {
-   "id": "il-kan11il",
-   "ad": "Kan 11",
-   "alt": "general",
-   "ulke": "il",
-   "kalite": "FHD",
-   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/960px-Kan11Logo.svg.png",
-   "iptv": [
-    "Kan11.il"
-   ],
-   "url": [
-    "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8"
-   ]
-  },
-  {
    "id": "il-now14il",
    "ad": "Now 14",
    "alt": "general",
@@ -113,6 +99,20 @@
    ],
    "url": [
     "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "il-vivapremiumil",
+   "ad": "Viva Premium",
+   "alt": "general",
+   "ulke": "il",
+   "kalite": "FHD",
+   "logo": "https://cdn.epg.one/img2/9055.png",
+   "iptv": [
+    "VivaPremium.il"
+   ],
+   "url": [
+    "http://stream.mcquack.net/43/index.m3u8"
    ]
   },
   {
@@ -130,20 +130,6 @@
    ]
   },
   {
-   "id": "il-hopil",
-   "ad": "Hop!",
-   "alt": "kids",
-   "ulke": "il",
-   "kalite": "SD",
-   "logo": "https://i.imgur.com/bScuilD.png",
-   "iptv": [
-    "Hop.il"
-   ],
-   "url": [
-    "http://stream.mcquack.net/44/index.m3u8"
-   ]
-  },
-  {
    "id": "il-yamtichoniil",
    "ad": "Yam Tichoni",
    "alt": "series",
@@ -158,17 +144,17 @@
    ]
   },
   {
-   "id": "il-vivapremiumil",
-   "ad": "Viva Premium",
-   "alt": "general",
+   "id": "il-kaneducationalil",
+   "ad": "Kan Educational",
+   "alt": "education",
    "ulke": "il",
-   "kalite": "FHD",
-   "logo": "https://cdn.epg.one/img2/9055.png",
+   "kalite": "SD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png",
    "iptv": [
-    "VivaPremium.il"
+    "KanEducational.il"
    ],
    "url": [
-    "http://stream.mcquack.net/43/index.m3u8"
+    "http://stream.mcquack.net/378/index.m3u8"
    ]
   }
  ]

@@ -1,7 +1,7 @@
 {
  "ulke": "br",
  "ad": "Brezilya",
- "guncelleme": "2026-11-14",
+ "guncelleme": "2026-11-16",
  "kanallar": [
   {
    "id": "br-cnnbrasilbr",
@@ -102,34 +102,6 @@
    ]
   },
   {
-   "id": "br-tvbrusquebr",
-   "ad": "TV Brusque",
-   "alt": "news",
-   "ulke": "br",
-   "kalite": "HD",
-   "logo": "https://i.imgur.com/J2EAZPS.png",
-   "iptv": [
-    "TVBrusque.br"
-   ],
-   "url": [
-    "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
-   ]
-  },
-  {
-   "id": "br-tvsimcachoeirobr",
-   "ad": "TV Sim Cachoeiro",
-   "alt": "news",
-   "ulke": "br",
-   "kalite": "FHD",
-   "logo": "https://i.imgur.com/t5oUK3C.png",
-   "iptv": [
-    "TVSimCachoeiro.br"
-   ],
-   "url": [
-    "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
-   ]
-  },
-  {
    "id": "br-historybr",
    "ad": "History",
    "alt": "documentary",
@@ -169,6 +141,34 @@
    ],
    "url": [
     "https://app.tvufop.com.br/hls/tvufop.m3u8"
+   ]
+  },
+  {
+   "id": "br-sbtnewsbr",
+   "ad": "SBT News",
+   "alt": "news",
+   "ulke": "br",
+   "kalite": "HD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg",
+   "iptv": [
+    "SBTNews.br"
+   ],
+   "url": [
+    "https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8"
+   ]
+  },
+  {
+   "id": "br-tvsimsaomateusbr",
+   "ad": "TV Sim Sao Mateus",
+   "alt": "news",
+   "ulke": "br",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/t5oUK3C.png",
+   "iptv": [
+    "TVSimSaoMateus.br"
+   ],
+   "url": [
+    "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
    ]
   }
  ]

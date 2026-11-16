@@ -1,7 +1,7 @@
 {
  "ulke": "ua",
  "ad": "Ukrayna",
- "guncelleme": "2026-11-14",
+ "guncelleme": "2026-11-16",
  "kanallar": [
   {
    "id": "ua-armytvua",
@@ -130,6 +130,20 @@
    ]
   },
   {
+   "id": "ua-atrua",
+   "ad": "ATR",
+   "alt": "culture",
+   "ulke": "ua",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/lRJAXC7.png",
+   "iptv": [
+    "ATR.ua"
+   ],
+   "url": [
+    "http://stream.mcquack.net/244/index.m3u8"
+   ]
+  },
+  {
    "id": "ua-1plus1marafonua",
    "ad": "1+1 Marafon",
    "alt": "general",
@@ -155,20 +169,6 @@
    ],
    "url": [
     "http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8"
-   ]
-  },
-  {
-   "id": "ua-atrua",
-   "ad": "ATR",
-   "alt": "culture",
-   "ulke": "ua",
-   "kalite": "FHD",
-   "logo": "https://i.imgur.com/lRJAXC7.png",
-   "iptv": [
-    "ATR.ua"
-   ],
-   "url": [
-    "http://stream.mcquack.net/244/index.m3u8"
    ]
   }
  ]

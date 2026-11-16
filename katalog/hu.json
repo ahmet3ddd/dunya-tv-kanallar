@@ -1,7 +1,7 @@
 {
  "ulke": "hu",
  "ad": "Macaristan",
- "guncelleme": "2026-11-14",
+ "guncelleme": "2026-11-16",
  "kanallar": [
   {
    "id": "hu-hevizitvhu",
@@ -57,20 +57,6 @@
    ],
    "url": [
     "https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8"
-   ]
-  },
-  {
-   "id": "hu-karcagtvhu",
-   "ad": "Karcag TV",
-   "alt": "general",
-   "ulke": "hu",
-   "kalite": "HD",
-   "logo": "https://i.imgur.com/QcrVj3Q.png",
-   "iptv": [
-    "KarcagTV.hu"
-   ],
-   "url": [
-    "https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8"
    ]
   },
   {
@@ -169,6 +155,20 @@
    ],
    "url": [
     "http://193.225.32.62:8890/live.m3u8"
+   ]
+  },
+  {
+   "id": "hu-budapesteuropatelevizioh",
+   "ad": "Budapest Europa Televizio",
+   "alt": "general",
+   "ulke": "hu",
+   "kalite": "SD",
+   "logo": "https://i.imgur.com/CqqWtzo.png",
+   "iptv": [
+    "BudapestEuropaTelevizio.hu"
+   ],
+   "url": [
+    "https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8"
    ]
   }
  ]

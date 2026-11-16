@@ -1,36 +1,8 @@
 {
  "ulke": "kz",
  "ad": "Kazakistan",
- "guncelleme": "2026-11-14",
+ "guncelleme": "2026-11-16",
  "kanallar": [
-  {
-   "id": "kz-abaitvkz",
-   "ad": "Abai TV",
-   "alt": "culture",
-   "ulke": "kz",
-   "kalite": "FHD",
-   "logo": "https://i.imgur.com/Nw2R7Dq.png",
-   "iptv": [
-    "AbaiTV.kz"
-   ],
-   "url": [
-    "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8"
-   ]
-  },
-  {
-   "id": "kz-jibekjolykz",
-   "ad": "Jibek Joly",
-   "alt": "general",
-   "ulke": "kz",
-   "kalite": "FHD",
-   "logo": "https://i.imgur.com/SqyXtgK.png",
-   "iptv": [
-    "JibekJoly.kz"
-   ],
-   "url": [
-    "https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8"
-   ]
-  },
   {
    "id": "kz-silkwaykz",
    "ad": "Silk Way",
@@ -60,17 +32,45 @@
    ]
   },
   {
-   "id": "kz-balapankz",
-   "ad": "Balapan",
+   "id": "kz-nickelodeonciskz",
+   "ad": "Nickelodeon CIS",
    "alt": "kids",
    "ulke": "kz",
    "kalite": "FHD",
-   "logo": "https://i.imgur.com/2o5T0gi.png",
+   "logo": "https://commons.wikimedia.org/wiki/File:Short_Nick_2023.png",
    "iptv": [
-    "Balapan.kz"
+    "NickelodeonCIS.kz"
    ],
    "url": [
-    "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8"
+    "https://stream8.cinerama.uz/1500/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "kz-ktkkz",
+   "ad": "KTK",
+   "alt": "general",
+   "ulke": "kz",
+   "kalite": "SD",
+   "logo": "https://i.imgur.com/BurrNTo.png",
+   "iptv": [
+    "KTK.kz"
+   ],
+   "url": [
+    "http://stream.mcquack.net/26/index.m3u8"
+   ]
+  },
+  {
+   "id": "kz-ntkkz",
+   "ad": "NTK",
+   "alt": "general",
+   "ulke": "kz",
+   "kalite": "SD",
+   "logo": "https://i.imgur.com/hHSCH4L.png",
+   "iptv": [
+    "NTK.kz"
+   ],
+   "url": [
+    "http://stream.mcquack.net/389/index.m3u8"
    ]
   }
  ]

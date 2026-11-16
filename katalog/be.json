@@ -1,7 +1,7 @@
 {
  "ulke": "be",
  "ad": "Belçika",
- "guncelleme": "2026-11-14",
+ "guncelleme": "2026-11-16",
  "kanallar": [
   {
    "id": "be-sterktvbe",
@@ -60,17 +60,17 @@
    ]
   },
   {
-   "id": "be-actvbe",
-   "ad": "ACTV",
-   "alt": "general",
+   "id": "be-japanimtvbe",
+   "ad": "JapanimTV",
+   "alt": "animation, kids",
    "ulke": "be",
-   "kalite": "SD",
-   "logo": "https://files.catbox.moe/8v2y8m.png",
+   "kalite": "FHD",
+   "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png",
    "iptv": [
-    "ACTV.be"
+    "JapanimTV.be"
    ],
    "url": [
-    "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8"
+    "https://foxkidstv.be:3369/stream/play.m3u8"
    ]
   }
  ]

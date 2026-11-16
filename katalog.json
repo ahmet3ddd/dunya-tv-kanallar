@@ -1,29 +1,29 @@
 {
- "guncelleme": "2026-11-14",
+ "guncelleme": "2026-11-16",
  "ulkeler": [
   {
    "kod": "us",
    "ad": "ABD",
    "adet": 12,
-   "tum": 793
+   "tum": 933
   },
   {
    "kod": "de",
    "ad": "Almanya",
    "adet": 12,
-   "tum": 130
+   "tum": 136
   },
   {
    "kod": "ar",
    "ad": "Arjantin",
    "adet": 12,
-   "tum": 129
+   "tum": 133
   },
   {
    "kod": "au",
    "ad": "Avustralya",
-   "adet": 12,
-   "tum": 21
+   "adet": 11,
+   "tum": 20
   },
   {
    "kod": "at",
@@ -35,31 +35,31 @@
    "kod": "ae",
    "ad": "BAE",
    "adet": 12,
-   "tum": 32
+   "tum": 35
   },
   {
    "kod": "be",
    "ad": "Belçika",
    "adet": 5,
-   "tum": 22
+   "tum": 16
   },
   {
    "kod": "br",
    "ad": "Brezilya",
    "adet": 12,
-   "tum": 149
+   "tum": 145
   },
   {
    "kod": "bg",
    "ad": "Bulgaristan",
-   "adet": 8,
-   "tum": 14
+   "adet": 12,
+   "tum": 18
   },
   {
    "kod": "id",
    "ad": "Endonezya",
    "adet": 12,
-   "tum": 46
+   "tum": 45
   },
   {
    "kod": "ma",
@@ -70,8 +70,8 @@
   {
    "kod": "fi",
    "ad": "Finlandiya",
-   "adet": 7,
-   "tum": 17
+   "adet": 4,
+   "tum": 14
   },
   {
    "kod": "kr",
@@ -83,43 +83,43 @@
    "kod": "in",
    "ad": "Hindistan",
    "adet": 12,
-   "tum": 671
+   "tum": 668
   },
   {
    "kod": "nl",
    "ad": "Hollanda",
    "adet": 12,
-   "tum": 115
+   "tum": 104
   },
   {
    "kod": "ca",
    "ad": "Kanada",
    "adet": 12,
-   "tum": 89
+   "tum": 96
   },
   {
    "kod": "qa",
    "ad": "Katar",
-   "adet": 11,
+   "adet": 10,
    "tum": 14
   },
   {
    "kod": "kz",
    "ad": "Kazakistan",
    "adet": 5,
-   "tum": 11
+   "tum": 10
   },
   {
    "kod": "hu",
    "ad": "Macaristan",
    "adet": 12,
-   "tum": 41
+   "tum": 42
   },
   {
    "kod": "mx",
    "ad": "Meksika",
    "adet": 12,
-   "tum": 110
+   "tum": 95
   },
   {
    "kod": "eg",
@@ -130,14 +130,14 @@
   {
    "kod": "pk",
    "ad": "Pakistan",
-   "adet": 8,
+   "adet": 7,
    "tum": 37
   },
   {
    "kod": "pl",
    "ad": "Polonya",
    "adet": 12,
-   "tum": 97
+   "tum": 103
   },
   {
    "kod": "pt",
@@ -149,49 +149,49 @@
    "kod": "ro",
    "ad": "Romanya",
    "adet": 12,
-   "tum": 120
+   "tum": 127
   },
   {
    "kod": "sg",
    "ad": "Singapur",
-   "adet": 7,
+   "adet": 5,
    "tum": 9
   },
   {
    "kod": "sa",
    "ad": "Suudi Arabistan",
    "adet": 12,
-   "tum": 42
+   "tum": 40
   },
   {
    "kod": "th",
    "ad": "Tayland",
    "adet": 12,
-   "tum": 40
+   "tum": 56
   },
   {
    "kod": "tr",
    "ad": "Türkiye",
    "adet": 12,
-   "tum": 114
+   "tum": 110
   },
   {
    "kod": "ua",
    "ad": "Ukrayna",
    "adet": 12,
-   "tum": 59
+   "tum": 61
   },
   {
    "kod": "vn",
    "ad": "Vietnam",
    "adet": 12,
-   "tum": 53
+   "tum": 57
   },
   {
    "kod": "gr",
    "ad": "Yunanistan",
    "adet": 12,
-   "tum": 52
+   "tum": 54
   },
   {
    "kod": "cz",
@@ -200,87 +200,93 @@
    "tum": 59
   },
   {
+   "kod": "uz",
+   "ad": "Özbekistan",
+   "adet": 12,
+   "tum": 30
+  },
+  {
    "kod": "gb",
    "ad": "İngiltere",
    "adet": 12,
-   "tum": 102
+   "tum": 110
   },
   {
    "kod": "es",
    "ad": "İspanya",
    "adet": 12,
-   "tum": 99
+   "tum": 123
   },
   {
    "kod": "il",
    "ad": "İsrail",
-   "adet": 12,
+   "adet": 11,
    "tum": 20
   },
   {
    "kod": "ch",
    "ad": "İsviçre",
-   "adet": 9,
-   "tum": 21
+   "adet": 7,
+   "tum": 15
   },
   {
    "kod": "it",
    "ad": "İtalya",
    "adet": 12,
-   "tum": 180
+   "tum": 181
   }
  ],
  "tum": {
-  "cn": 47,
+  "cn": 58,
   "jp": 7,
-  "ru": 307,
-  "fr": 109,
-  "tr": 114,
-  "de": 130,
-  "gb": 102,
-  "us": 793,
-  "it": 180,
-  "es": 99,
+  "ru": 302,
+  "fr": 125,
+  "tr": 110,
+  "de": 136,
+  "gb": 110,
+  "us": 933,
+  "it": 181,
+  "es": 123,
   "kr": 48,
-  "in": 671,
+  "in": 668,
   "qa": 14,
-  "ae": 32,
-  "sa": 42,
+  "ae": 35,
+  "sa": 40,
   "eg": 15,
-  "gr": 52,
-  "nl": 115,
+  "gr": 54,
+  "nl": 104,
   "pt": 27,
-  "br": 149,
-  "ar": 129,
-  "mx": 110,
-  "ca": 89,
-  "au": 21,
-  "pl": 97,
-  "ua": 59,
+  "br": 145,
+  "ar": 133,
+  "mx": 95,
+  "ca": 96,
+  "au": 20,
+  "pl": 103,
+  "ua": 61,
   "az": 9,
-  "kz": 11,
-  "uz": 10,
-  "ir": 33,
+  "kz": 10,
+  "uz": 30,
+  "ir": 37,
   "pk": 37,
-  "id": 46,
-  "th": 40,
-  "vn": 53,
+  "id": 45,
+  "th": 56,
+  "vn": 57,
   "se": 5,
   "no": 3,
-  "ch": 21,
+  "ch": 15,
   "at": 25,
-  "be": 22,
-  "tw": 10,
+  "be": 16,
+  "tw": 11,
   "hk": 4,
   "sg": 9,
   "il": 20,
-  "ro": 120,
-  "bg": 14,
-  "hu": 41,
+  "ro": 127,
+  "bg": 18,
+  "hu": 42,
   "cz": 59,
-  "fi": 17,
-  "dk": 3,
-  "ie": 1,
+  "fi": 14,
+  "dk": 5,
+  "ie": 2,
   "ma": 9,
   "dz": 3
  }

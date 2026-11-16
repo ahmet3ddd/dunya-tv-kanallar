@@ -1,7 +1,7 @@
 {
  "ulke": "au",
  "ad": "Avustralya",
- "guncelleme": "2026-11-14",
+ "guncelleme": "2026-11-16",
  "kanallar": [
   {
    "id": "au-foxsportsnewsau",
@@ -71,20 +71,6 @@
    ],
    "url": [
     "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8"
-   ]
-  },
-  {
-   "id": "au-jonmobhumitvau",
-   "ad": "JonmoBhumi TV",
-   "alt": "general",
-   "ulke": "au",
-   "kalite": "HD",
-   "logo": "https://i.imgur.com/2snahLk.png",
-   "iptv": [
-    "JonmoBhumiTV.au"
-   ],
-   "url": [
-    "https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8"
    ]
   },
   {

@@ -1,7 +1,7 @@
 {
  "ulke": "nl",
  "ad": "Hollanda",
- "guncelleme": "2026-11-14",
+ "guncelleme": "2026-11-16",
  "kanallar": [
   {
    "id": "nl-nhnl",
@@ -158,17 +158,17 @@
    ]
   },
   {
-   "id": "nl-rtvrijnmondextranl",
-   "ad": "RTV Rijnmond Extra",
+   "id": "nl-streekstadcentralnl",
+   "ad": "Streekstad Central",
    "alt": "general",
    "ulke": "nl",
    "kalite": "FHD",
-   "logo": "https://i.imgur.com/mlrd5ia.png",
+   "logo": "https://i.imgur.com/9gM6rPb.png",
    "iptv": [
-    "RTVRijnmondExtra.nl"
+    "StreekstadCentral.nl"
    ],
    "url": [
-    "http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8"
+    "https://videostreams.streekstadcentraal.nl/hls/streekstad_alkmaar/streekstad_alkmaar.m3u8"
    ]
   }
  ]

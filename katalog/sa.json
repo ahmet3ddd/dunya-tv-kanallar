@@ -1,7 +1,7 @@
 {
  "ulke": "sa",
  "ad": "Suudi Arabistan",
- "guncelleme": "2026-11-14",
+ "guncelleme": "2026-11-16",
  "kanallar": [
   {
    "id": "sa-alarabiyaenglishsa",
@@ -71,20 +71,6 @@
    ],
    "url": [
     "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8"
-   ]
-  },
-  {
-   "id": "sa-asharqdocumentarysa",
-   "ad": "Asharq Documentary",
-   "alt": "documentary",
-   "ulke": "sa",
-   "kalite": "FHD",
-   "logo": "https://i.imgur.com/v6VsFEt.png",
-   "iptv": [
-    "AsharqDocumentary.sa"
-   ],
-   "url": [
-    "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8"
    ]
   },
   {
@@ -169,6 +155,20 @@
    ],
    "url": [
     "https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "sa-asharqdiscoverysa",
+   "ad": "Asharq Discovery",
+   "alt": "documentary, education",
+   "ulke": "sa",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/Czxi7yk.png",
+   "iptv": [
+    "AsharqDiscovery.sa"
+   ],
+   "url": [
+    "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
    ]
   }
  ]

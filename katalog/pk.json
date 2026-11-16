@@ -1,7 +1,7 @@
 {
  "ulke": "pk",
  "ad": "Pakistan",
- "guncelleme": "2026-11-14",
+ "guncelleme": "2026-11-16",
  "kanallar": [
   {
    "id": "pk-mnewspk",
@@ -43,20 +43,6 @@
    ],
    "url": [
     "https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8"
-   ]
-  },
-  {
-   "id": "pk-jeremiahtvpk",
-   "ad": "Jeremiah TV",
-   "alt": "general",
-   "ulke": "pk",
-   "kalite": "HD",
-   "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Jeremiah%20TV.jpeg",
-   "iptv": [
-    "JeremiahTV.pk"
-   ],
-   "url": [
-    "https://x.streamablecloud.com/stream/hls/jeremiahtv/index.m3u8"
    ]
   },
   {

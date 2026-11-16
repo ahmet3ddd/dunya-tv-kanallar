@@ -1,36 +1,8 @@
 {
  "ulke": "fi",
  "ad": "Finlandiya",
- "guncelleme": "2026-11-14",
+ "guncelleme": "2026-11-16",
  "kanallar": [
-  {
-   "id": "fi-mtv3fi",
-   "ad": "MTV3",
-   "alt": "general",
-   "ulke": "fi",
-   "kalite": "HD",
-   "logo": "https://i.imgur.com/C5rQbBM.png",
-   "iptv": [
-    "MTV3.fi"
-   ],
-   "url": [
-    "https://live-fi.tvkaista.net/mtv3/live.m3u8"
-   ]
-  },
-  {
-   "id": "fi-nelonenfi",
-   "ad": "Nelonen",
-   "alt": "general",
-   "ulke": "fi",
-   "kalite": "HD",
-   "logo": "https://i.imgur.com/BFbCyfY.png",
-   "iptv": [
-    "Nelonen.fi"
-   ],
-   "url": [
-    "https://live-fi.tvkaista.net/nelonen/live.m3u8"
-   ]
-  },
   {
    "id": "fi-onnitvfi",
    "ad": "Onni TV",
@@ -57,20 +29,6 @@
    ],
    "url": [
     "https://live-fi.tvkaista.net/jim/live.m3u8?hd=true"
-   ]
-  },
-  {
-   "id": "fi-livfi",
-   "ad": "Liv",
-   "alt": "entertainment",
-   "ulke": "fi",
-   "kalite": "HD",
-   "logo": "https://i.imgur.com/k6NsXBj.png",
-   "iptv": [
-    "Liv.fi"
-   ],
-   "url": [
-    "https://live-fi.tvkaista.net/liv/live.m3u8?hd=true"
    ]
   },
   {
