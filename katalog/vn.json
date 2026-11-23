@@ -1,7 +1,7 @@
 {
  "ulke": "vn",
  "ad": "Vietnam",
- "guncelleme": "2026-11-16",
+ "guncelleme": "2026-11-23",
  "kanallar": [
   {
    "id": "vn-dongnaitv1vn",
@@ -64,7 +64,7 @@
    "ad": "Dien Bien TV",
    "alt": "general",
    "ulke": "vn",
-   "kalite": "HD",
+   "kalite": "FHD",
    "logo": "https://i.imgur.com/u308o8q.png",
    "iptv": [
     "DienBienTV.vn"

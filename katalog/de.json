@@ -1,7 +1,7 @@
 {
  "ulke": "de",
  "ad": "Almanya",
- "guncelleme": "2026-11-16",
+ "guncelleme": "2026-11-23",
  "kanallar": [
   {
    "id": "de-dwde",
@@ -43,6 +43,20 @@
    ],
    "url": [
     "https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "de-curiositynowde",
+   "ad": "Curiosity NOW",
+   "alt": "documentary",
+   "ulke": "de",
+   "kalite": "FHD",
+   "logo": "https://i.imgur.com/gJ9eMaG.png",
+   "iptv": [
+    "CuriosityNOW.de"
+   ],
+   "url": [
+    "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8"
    ]
   },
   {
@@ -155,20 +169,6 @@
    ],
    "url": [
     "http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8"
-   ]
-  },
-  {
-   "id": "de-curiositynowde",
-   "ad": "Curiosity NOW",
-   "alt": "documentary",
-   "ulke": "de",
-   "kalite": "FHD",
-   "logo": "https://i.imgur.com/gJ9eMaG.png",
-   "iptv": [
-    "CuriosityNOW.de"
-   ],
-   "url": [
-    "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8"
    ]
   }
  ]

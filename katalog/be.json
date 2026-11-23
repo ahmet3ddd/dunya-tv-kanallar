@@ -1,7 +1,7 @@
 {
  "ulke": "be",
  "ad": "Belçika",
- "guncelleme": "2026-11-16",
+ "guncelleme": "2026-11-23",
  "kanallar": [
   {
    "id": "be-sterktvbe",
@@ -46,6 +46,20 @@
    ]
   },
   {
+   "id": "be-japanimtvbe",
+   "ad": "JapanimTV",
+   "alt": "animation, kids",
+   "ulke": "be",
+   "kalite": "FHD",
+   "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png",
+   "iptv": [
+    "JapanimTV.be"
+   ],
+   "url": [
+    "https://foxkidstv.be:3369/stream/play.m3u8"
+   ]
+  },
+  {
    "id": "be-stubrube",
    "ad": "StuBru",
    "alt": "music",
@@ -60,17 +74,17 @@
    ]
   },
   {
-   "id": "be-japanimtvbe",
-   "ad": "JapanimTV",
-   "alt": "animation, kids",
+   "id": "be-actvbe",
+   "ad": "ACTV",
+   "alt": "general",
    "ulke": "be",
-   "kalite": "FHD",
-   "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png",
+   "kalite": "SD",
+   "logo": "https://files.catbox.moe/8v2y8m.png",
    "iptv": [
-    "JapanimTV.be"
+    "ACTV.be"
    ],
    "url": [
-    "https://foxkidstv.be:3369/stream/play.m3u8"
+    "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8"
    ]
   }
  ]

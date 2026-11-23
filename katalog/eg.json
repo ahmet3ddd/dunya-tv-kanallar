@@ -1,7 +1,7 @@
 {
  "ulke": "eg",
  "ad": "Mısır",
- "guncelleme": "2026-11-16",
+ "guncelleme": "2026-11-23",
  "kanallar": [
   {
    "id": "eg-alghadtveg",
@@ -57,20 +57,6 @@
    ],
    "url": [
     "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8"
-   ]
-  },
-  {
-   "id": "eg-mbcmasr2eg",
-   "ad": "MBC Masr 2",
-   "alt": "general",
-   "ulke": "eg",
-   "kalite": "FHD",
-   "logo": "https://i.imgur.com/KHo7Gtn.png",
-   "iptv": [
-    "MBCMasr2.eg"
-   ],
-   "url": [
-    "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8"
    ]
   },
   {

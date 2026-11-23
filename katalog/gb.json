@@ -1,22 +1,8 @@
 {
  "ulke": "gb",
  "ad": "İngiltere",
- "guncelleme": "2026-11-16",
+ "guncelleme": "2026-11-23",
  "kanallar": [
-  {
-   "id": "gb-bbcnewsuk",
-   "ad": "BBC News",
-   "alt": "news",
-   "ulke": "gb",
-   "kalite": "FHD",
-   "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
-   "iptv": [
-    "BBCNews.uk"
-   ],
-   "url": [
-    "http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8"
-   ]
-  },
   {
    "id": "gb-cnbcukuk",
    "ad": "CNBC UK",
@@ -70,7 +56,7 @@
     "BBCEarth.uk"
    ],
    "url": [
-    "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8"
+    "https://amg00793-amg00793c6-vizio-us-2670.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthaall-vizious/playlist.m3u8"
    ]
   },
   {
@@ -169,6 +155,20 @@
    ],
    "url": [
     "https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "gb-gbnewsuk",
+   "ad": "GB News",
+   "alt": "news",
+   "ulke": "gb",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png",
+   "iptv": [
+    "GBNews.uk"
+   ],
+   "url": [
+    "https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8"
    ]
   }
  ]

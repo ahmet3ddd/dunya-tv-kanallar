@@ -1,7 +1,7 @@
 {
  "ulke": "il",
  "ad": "İsrail",
- "guncelleme": "2026-11-16",
+ "guncelleme": "2026-11-23",
  "kanallar": [
   {
    "id": "il-channel9il",
@@ -15,20 +15,6 @@
    ],
    "url": [
     "https://contact.gostreaming.tv/Con-11/index.m3u8"
-   ]
-  },
-  {
-   "id": "il-makan33il",
-   "ad": "Makan 33",
-   "alt": "news",
-   "ulke": "il",
-   "kalite": "FHD",
-   "logo": "https://i.imgur.com/RVtQTed.png",
-   "iptv": [
-    "Makan33.il"
-   ],
-   "url": [
-    "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8"
    ]
   },
   {
@@ -102,20 +88,6 @@
    ]
   },
   {
-   "id": "il-vivapremiumil",
-   "ad": "Viva Premium",
-   "alt": "general",
-   "ulke": "il",
-   "kalite": "FHD",
-   "logo": "https://cdn.epg.one/img2/9055.png",
-   "iptv": [
-    "VivaPremium.il"
-   ],
-   "url": [
-    "http://stream.mcquack.net/43/index.m3u8"
-   ]
-  },
-  {
    "id": "il-channel13il",
    "ad": "Channel 13",
    "alt": "general",
@@ -130,31 +102,73 @@
    ]
   },
   {
-   "id": "il-yamtichoniil",
-   "ad": "Yam Tichoni",
-   "alt": "series",
+   "id": "il-vivaistanbulil",
+   "ad": "Viva Istanbul",
+   "alt": "general",
    "ulke": "il",
    "kalite": "FHD",
-   "logo": "https://upload.wikimedia.org/wikipedia/he/thumb/5/58/YamTichoniChannel.svg/1280px-YamTichoniChannel.svg.png",
+   "logo": "https://cdn.epg.one/img2/88006.png",
    "iptv": [
-    "YamTichoni.il"
+    "VivaIstanbul.il"
    ],
    "url": [
-    "http://stream.mcquack.net/46/index.m3u8"
+    "https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva_plus/live.livx/playlist.m3u8"
    ]
   },
   {
-   "id": "il-kaneducationalil",
-   "ad": "Kan Educational",
-   "alt": "education",
+   "id": "il-arutzhayeladimil",
+   "ad": "Arutz HaYeladim",
+   "alt": "kids",
    "ulke": "il",
-   "kalite": "SD",
-   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/n1KusFW.png",
    "iptv": [
-    "KanEducational.il"
+    "ArutzHaYeladim.il"
    ],
    "url": [
-    "http://stream.mcquack.net/378/index.m3u8"
+    "https://r.il.cdn-redge.media/livehls/oil/freetv/live/kids_channel/live.livx/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "il-junioril",
+   "ad": "Junior",
+   "alt": "kids",
+   "ulke": "il",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/w8fYTnw.png",
+   "iptv": [
+    "Junior.il"
+   ],
+   "url": [
+    "https://r.il.cdn-redge.media/livehls/oil/freetv/live/junior/live.livx/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "il-musicilil",
+   "ad": "Music IL",
+   "alt": "music",
+   "ulke": "il",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/tTVOc31.png",
+   "iptv": [
+    "MusicIL.il"
+   ],
+   "url": [
+    "https://r.il.cdn-redge.media/livehls/oil/freetv/live/music_il/live.livx/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "il-vivatelenovelasil",
+   "ad": "Viva Telenovelas",
+   "alt": "series",
+   "ulke": "il",
+   "kalite": "FHD",
+   "logo": "https://static.g-cdn.app/streams/viva-il.png",
+   "iptv": [
+    "VivaTelenovelas.il"
+   ],
+   "url": [
+    "https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8"
    ]
   }
  ]

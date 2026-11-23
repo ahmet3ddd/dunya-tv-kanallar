@@ -1,7 +1,7 @@
 {
  "ulke": "pt",
  "ad": "Portekiz",
- "guncelleme": "2026-11-16",
+ "guncelleme": "2026-11-23",
  "kanallar": [
   {
    "id": "pt-cnnportugalpt",
@@ -127,6 +127,20 @@
    ],
    "url": [
     "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8"
+   ]
+  },
+  {
+   "id": "pt-rtpmundopt",
+   "ad": "RTP Mundo",
+   "alt": "general",
+   "ulke": "pt",
+   "kalite": "SD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png",
+   "iptv": [
+    "RTPMundo.pt"
+   ],
+   "url": [
+    "https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/rtp_internacional/live.livx/playlist.m3u8"
    ]
   }
  ]

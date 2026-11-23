@@ -1,8 +1,22 @@
 {
  "ulke": "id",
  "ad": "Endonezya",
- "guncelleme": "2026-11-16",
+ "guncelleme": "2026-11-23",
  "kanallar": [
+  {
+   "id": "id-btvid",
+   "ad": "BTV",
+   "alt": "news",
+   "ulke": "id",
+   "kalite": "FHD",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png",
+   "iptv": [
+    "BTV.id"
+   ],
+   "url": [
+    "https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8"
+   ]
+  },
   {
    "id": "id-theindonesiachannelid",
    "ad": "The Indonesia Channel",
@@ -32,17 +46,17 @@
    ]
   },
   {
-   "id": "id-magnachannelid",
-   "ad": "Magna Channel",
+   "id": "id-garudatvid",
+   "ad": "Garuda TV",
    "alt": "general",
    "ulke": "id",
    "kalite": "FHD",
-   "logo": "https://i.imgur.com/tfJo0SO.png",
+   "logo": "https://i.imgur.com/sXsAcZ3.png",
    "iptv": [
-    "MagnaChannel.id"
+    "GarudaTV.id"
    ],
    "url": [
-    "http://202.150.172.59/MagnaChannel/index.m3u8"
+    "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8"
    ]
   },
   {
@@ -57,20 +71,6 @@
    ],
    "url": [
     "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8"
-   ]
-  },
-  {
-   "id": "id-tvriid",
-   "ad": "TVRI",
-   "alt": "general",
-   "ulke": "id",
-   "kalite": "FHD",
-   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png",
-   "iptv": [
-    "TVRI.id"
-   ],
-   "url": [
-    "http://202.150.172.59/TVRI/index.m3u8"
    ]
   },
   {
@@ -130,45 +130,45 @@
    ]
   },
   {
-   "id": "id-vtvid",
-   "ad": "VTV",
-   "alt": "kids",
-   "ulke": "id",
-   "kalite": "FHD",
-   "logo": "https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png",
-   "iptv": [
-    "VTV.id"
-   ],
-   "url": [
-    "http://202.150.172.59/VTVHD/index.m3u8"
-   ]
-  },
-  {
-   "id": "id-btvid",
-   "ad": "BTV",
-   "alt": "news",
-   "ulke": "id",
-   "kalite": "FHD",
-   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png",
-   "iptv": [
-    "BTV.id"
-   ],
-   "url": [
-    "https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8"
-   ]
-  },
-  {
-   "id": "id-garudatvid",
-   "ad": "Garuda TV",
+   "id": "id-balikpapantvid",
+   "ad": "Balikpapan TV",
    "alt": "general",
    "ulke": "id",
    "kalite": "FHD",
-   "logo": "https://i.imgur.com/sXsAcZ3.png",
+   "logo": "https://i.imgur.com/P3whqna.png",
    "iptv": [
-    "GarudaTV.id"
+    "BalikpapanTV.id"
    ],
    "url": [
-    "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8"
+    "http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "id-dhohotvid",
+   "ad": "Dhoho TV",
+   "alt": "general",
+   "ulke": "id",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/4Khyyfh.png",
+   "iptv": [
+    "DhohoTV.id"
+   ],
+   "url": [
+    "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8"
+   ]
+  },
+  {
+   "id": "id-yoyinternationalid",
+   "ad": "YOY International",
+   "alt": "general",
+   "ulke": "id",
+   "kalite": "SD",
+   "logo": "https://hosting.renderforestsites.com/35126779/1657983/media/3ed50b4273b16759c16450206bec0196.png",
+   "iptv": [
+    "YOYInternational.id"
+   ],
+   "url": [
+    "https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8"
    ]
   }
  ]

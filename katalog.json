@@ -1,23 +1,23 @@
 {
- "guncelleme": "2026-11-16",
+ "guncelleme": "2026-11-23",
  "ulkeler": [
   {
    "kod": "us",
    "ad": "ABD",
    "adet": 12,
-   "tum": 933
+   "tum": 885
   },
   {
    "kod": "de",
    "ad": "Almanya",
    "adet": 12,
-   "tum": 136
+   "tum": 138
   },
   {
    "kod": "ar",
    "ad": "Arjantin",
    "adet": 12,
-   "tum": 133
+   "tum": 129
   },
   {
    "kod": "au",
@@ -40,26 +40,26 @@
   {
    "kod": "be",
    "ad": "Belçika",
-   "adet": 5,
-   "tum": 16
+   "adet": 6,
+   "tum": 20
   },
   {
    "kod": "br",
    "ad": "Brezilya",
    "adet": 12,
-   "tum": 145
+   "tum": 151
   },
   {
    "kod": "bg",
    "ad": "Bulgaristan",
    "adet": 12,
-   "tum": 18
+   "tum": 19
   },
   {
    "kod": "id",
    "ad": "Endonezya",
    "adet": 12,
-   "tum": 45
+   "tum": 47
   },
   {
    "kod": "ma",
@@ -71,19 +71,19 @@
    "kod": "fi",
    "ad": "Finlandiya",
    "adet": 4,
-   "tum": 14
+   "tum": 13
   },
   {
    "kod": "kr",
    "ad": "Güney Kore",
    "adet": 9,
-   "tum": 48
+   "tum": 47
   },
   {
    "kod": "in",
    "ad": "Hindistan",
    "adet": 12,
-   "tum": 668
+   "tum": 687
   },
   {
    "kod": "nl",
@@ -106,92 +106,92 @@
   {
    "kod": "kz",
    "ad": "Kazakistan",
-   "adet": 5,
+   "adet": 6,
    "tum": 10
   },
   {
    "kod": "hu",
    "ad": "Macaristan",
    "adet": 12,
-   "tum": 42
+   "tum": 41
   },
   {
    "kod": "mx",
    "ad": "Meksika",
    "adet": 12,
-   "tum": 95
+   "tum": 98
   },
   {
    "kod": "eg",
    "ad": "Mısır",
-   "adet": 11,
-   "tum": 15
+   "adet": 10,
+   "tum": 13
   },
   {
    "kod": "pk",
    "ad": "Pakistan",
-   "adet": 7,
-   "tum": 37
+   "adet": 6,
+   "tum": 36
   },
   {
    "kod": "pl",
    "ad": "Polonya",
    "adet": 12,
-   "tum": 103
+   "tum": 109
   },
   {
    "kod": "pt",
    "ad": "Portekiz",
-   "adet": 9,
-   "tum": 27
+   "adet": 10,
+   "tum": 28
   },
   {
    "kod": "ro",
    "ad": "Romanya",
    "adet": 12,
-   "tum": 127
+   "tum": 134
   },
   {
    "kod": "sg",
    "ad": "Singapur",
-   "adet": 5,
-   "tum": 9
+   "adet": 6,
+   "tum": 8
   },
   {
    "kod": "sa",
    "ad": "Suudi Arabistan",
    "adet": 12,
-   "tum": 40
+   "tum": 42
   },
   {
    "kod": "th",
    "ad": "Tayland",
    "adet": 12,
-   "tum": 56
+   "tum": 58
   },
   {
    "kod": "tr",
    "ad": "Türkiye",
    "adet": 12,
-   "tum": 110
+   "tum": 108
   },
   {
    "kod": "ua",
    "ad": "Ukrayna",
    "adet": 12,
-   "tum": 61
+   "tum": 50
   },
   {
    "kod": "vn",
    "ad": "Vietnam",
    "adet": 12,
-   "tum": 57
+   "tum": 59
   },
   {
    "kod": "gr",
    "ad": "Yunanistan",
    "adet": 12,
-   "tum": 54
+   "tum": 50
   },
   {
    "kod": "cz",
@@ -209,82 +209,82 @@
    "kod": "gb",
    "ad": "İngiltere",
    "adet": 12,
-   "tum": 110
+   "tum": 112
   },
   {
    "kod": "es",
    "ad": "İspanya",
    "adet": 12,
-   "tum": 123
+   "tum": 111
   },
   {
    "kod": "il",
    "ad": "İsrail",
-   "adet": 11,
-   "tum": 20
+   "adet": 12,
+   "tum": 33
   },
   {
    "kod": "ch",
    "ad": "İsviçre",
    "adet": 7,
-   "tum": 15
+   "tum": 17
   },
   {
    "kod": "it",
    "ad": "İtalya",
    "adet": 12,
-   "tum": 181
+   "tum": 185
   }
  ],
  "tum": {
-  "cn": 58,
-  "jp": 7,
-  "ru": 302,
-  "fr": 125,
-  "tr": 110,
-  "de": 136,
-  "gb": 110,
-  "us": 933,
-  "it": 181,
-  "es": 123,
-  "kr": 48,
-  "in": 668,
+  "cn": 55,
+  "jp": 12,
+  "ru": 277,
+  "fr": 133,
+  "tr": 108,
+  "de": 138,
+  "gb": 112,
+  "us": 885,
+  "it": 185,
+  "es": 111,
+  "kr": 47,
+  "in": 687,
   "qa": 14,
   "ae": 35,
-  "sa": 40,
-  "eg": 15,
-  "gr": 54,
+  "sa": 42,
+  "eg": 13,
+  "gr": 50,
   "nl": 104,
-  "pt": 27,
-  "br": 145,
-  "ar": 133,
-  "mx": 95,
+  "pt": 28,
+  "br": 151,
+  "ar": 129,
+  "mx": 98,
   "ca": 96,
   "au": 20,
-  "pl": 103,
-  "ua": 61,
-  "az": 9,
+  "pl": 109,
+  "ua": 50,
+  "az": 5,
   "kz": 10,
   "uz": 30,
-  "ir": 37,
-  "pk": 37,
-  "id": 45,
-  "th": 56,
-  "vn": 57,
+  "ir": 39,
+  "pk": 36,
+  "id": 47,
+  "th": 58,
+  "vn": 59,
   "se": 5,
   "no": 3,
-  "ch": 15,
+  "ch": 17,
   "at": 25,
-  "be": 16,
+  "be": 20,
   "tw": 11,
   "hk": 4,
-  "sg": 9,
-  "il": 20,
-  "ro": 127,
-  "bg": 18,
-  "hu": 42,
+  "sg": 8,
+  "il": 33,
+  "ro": 134,
+  "bg": 19,
+  "hu": 41,
   "cz": 59,
-  "fi": 14,
+  "fi": 13,
   "dk": 5,
   "ie": 2,
   "ma": 9,

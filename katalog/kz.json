@@ -1,7 +1,7 @@
 {
  "ulke": "kz",
  "ad": "Kazakistan",
- "guncelleme": "2026-11-16",
+ "guncelleme": "2026-11-23",
  "kanallar": [
   {
    "id": "kz-silkwaykz",
@@ -15,20 +15,6 @@
    ],
    "url": [
     "https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8"
-   ]
-  },
-  {
-   "id": "kz-rikatvkz",
-   "ad": "Rika TV",
-   "alt": "general",
-   "ulke": "kz",
-   "kalite": "HD",
-   "logo": "https://i.imgur.com/KJHWZ3B.png",
-   "iptv": [
-    "RikaTV.kz"
-   ],
-   "url": [
-    "https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8"
    ]
   },
   {
@@ -46,31 +32,59 @@
    ]
   },
   {
-   "id": "kz-ktkkz",
-   "ad": "KTK",
+   "id": "kz-rikatvkz",
+   "ad": "Rika TV",
    "alt": "general",
    "ulke": "kz",
    "kalite": "SD",
-   "logo": "https://i.imgur.com/BurrNTo.png",
+   "logo": "https://i.imgur.com/KJHWZ3B.png",
    "iptv": [
-    "KTK.kz"
+    "RikaTV.kz"
    ],
    "url": [
-    "http://stream.mcquack.net/26/index.m3u8"
+    "https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8"
    ]
   },
   {
-   "id": "kz-ntkkz",
-   "ad": "NTK",
+   "id": "kz-qazaqstaninternationalkz",
+   "ad": "Qazaqstan International",
    "alt": "general",
    "ulke": "kz",
-   "kalite": "SD",
-   "logo": "https://i.imgur.com/hHSCH4L.png",
+   "kalite": "FHD",
+   "logo": "https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=",
    "iptv": [
-    "NTK.kz"
+    "QazaqstanInternational.kz"
    ],
    "url": [
-    "http://stream.mcquack.net/389/index.m3u8"
+    "https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8"
+   ]
+  },
+  {
+   "id": "kz-novoetelevideniekz",
+   "ad": "Novoe televidenie",
+   "alt": "general",
+   "ulke": "kz",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/mmKWrWs.png",
+   "iptv": [
+    "Novoetelevidenie.kz"
+   ],
+   "url": [
+    "https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8"
+   ]
+  },
+  {
+   "id": "kz-ulytaukz",
+   "ad": "Ulytau",
+   "alt": "general",
+   "ulke": "kz",
+   "kalite": "HD",
+   "logo": "https://i.imgur.com/jTL6TvC.png",
+   "iptv": [
+    "Ulytau.kz"
+   ],
+   "url": [
+    "https://ulytau.tv/hls/master.m3u8"
    ]
   }
  ]
